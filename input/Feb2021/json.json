@@ -1,0 +1,4638 @@
+{
+  "guild": {
+    "id": "802849247179309067",
+    "name": "ClashOfClans DeadSages #2YGUPUU82",
+    "iconUrl": "https://cdn.discordapp.com/icons/802849247179309067/a48ae45f36d8d8595e6d85f9521509b2.png"
+  },
+  "channel": {
+    "id": "804337700135763998",
+    "type": "GuildTextChat",
+    "category": "Text Channels",
+    "name": "clan-feed",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2021-01-31T00:00:00+00:00",
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "805325447008354325",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:35:48.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/upgrade",
+      "author": {
+        "id": "539941684641792030",
+        "name": "LittleAlchemist",
+        "discriminator": "5503",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539941684641792030/497d7d0f9f1433a898d1dcf3d669587b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805325451131355147",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:35:49.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LittleAlchemist's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH7 and BH4\n\n**Elixir Troops**\n:sbarb::s3: for 150k :sk_elixir: (TH max 4)\n:sarcher::b4: for 750k :sk_elixir:\n:sgoblin::b4: for 750k :sk_elixir:\n:sdragon::b2: for 2m :sk_elixir:\n\n**Elixir Spells**\n:slightning::s3: for 500k :sk_elixir: (TH max 4)\n:shealing::s3: for 600k :sk_elixir: (TH max 4)\n:srage::s3: for 900k :sk_elixir: (TH max 4)",
+          "fields": [
+            {
+              "name": "Heroes",
+              "value": ":bk::b5: for 18k :sk_darkelixir:",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":ssneaky::s4: for 12k :bElixir: (BH max 8)\n:srbab::s5: for 50k :bElixir: (BH max 8)\n:sbeta::s3: for 80k :bElixir: (BH max 8)\n:sbomber::s2: for 150k :bElixir: (BH max 8)\n:sboxer::s5: for 300k :bElixir: (BH max 8)\n:sbdragon::s5: for 320k :bElixir: (BH max 8)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805325452288851968",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:35:50.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Creator Code: Sidekick",
+          "url": "https://clashsidekick.com/r/creatorcode",
+          "timestamp": null,
+          "description": "Free! Tap here & set our code, and Supercell will support us with a % of your in-game spending for 7 days",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805326326915530772",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:39:18.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/update",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805326335408603146",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:39:20.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Players on Discord: 6**\n:discord: `⠀Name           ⠀` `⠀Discord     ⠀`\n:x: `⠀Artizas        ⠀` `⠀Artizas2    ⠀`\n:x: `⠀BlackStallion97⠀` `⠀BlackStallio⠀`\n:x: `⠀your grandpa   ⠀` `⠀BlackStallio⠀`\n:x: `⠀Goldencode     ⠀` `⠀Goldencode12⠀`\n:x: `⠀LittleAlchemist⠀` `⠀LittleAlchem⠀`\n:x: `⠀Z.Z            ⠀` `⠀Z.Z         ⠀`",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728413270263726080",
+            "name": "discord",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728413270263726080.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "356880752476028939",
+            "name": "No",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/356880752476028939.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "805326342610092052",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:39:22.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Players not on Discord: 40**\n:discord: `⠀Name\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀Tag\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀`\n:x: `⠀Adam\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#88R0Q88G\u00A0⠀`\n:x: `⠀Alpha Wolf\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#P09Q9PRYC⠀`\n:x: `⠀Arif BURHAN\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9V02JJV9Y⠀`\n:x: `⠀Arnold\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#C9GUUQ0R\u00A0⠀`\n:x: `⠀Aryan n. Mhatr\u00A0⠀` `⠀#Y20YYGP8R⠀`\n:x: `⠀BigBlueAircraft⠀` `⠀#LVPCRYUCQ⠀`\n:x: `⠀Bojovic1211\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJCPJ88P9⠀`\n:x: `⠀BOSS Mikecx\u00A0\u00A0\u00A0\u00A0⠀` `⠀#VCQCLL9L\u00A0⠀`\n:x: `⠀cafrsggh\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#82U9YRYJ2⠀`\n:x: `⠀CerMaC\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#YYQPPP989⠀`\n:x: `⠀chief stephen\u00A0\u00A0⠀` `⠀#2RC89GQP\u00A0⠀`\n:x: `⠀chief steve\u00A0\u00A0\u00A0\u00A0⠀` `⠀#J8QVG8R0\u00A0⠀`\n:x: `⠀Chris14\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#PPPRVCQ8Q⠀`\n:x: `⠀Deadpool\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9RY02YGC\u00A0⠀`\n:x: `⠀DrunkBarbarian\u00A0⠀` `⠀#2LLPVGYG\u00A0⠀`\n:x: `⠀Dylan\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#CJQ0Y2RJ\u00A0⠀`\n:x: `⠀DylanLCP\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#PRCQGVLPL⠀`\n:x: `⠀Fe4RLess\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LQY8C2VQG⠀`\n:x: `⠀FUT21News\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJQP2RRR2⠀`\n:x: `⠀goontown\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LV9QCUU9L⠀`\n:x: `⠀Guru\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LCQLJ80R0⠀`\n:x: `⠀IRAN\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#2JPQGG9UR⠀`\n:x: `⠀Jamesy Boii\u00A0\u00A0\u00A0\u00A0⠀` `⠀#CLRPQ298\u00A0⠀`\n:x: `⠀jess342\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9CUUVJ2JC⠀`\n:x: `⠀john\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#8UV998RC8⠀`\n:x: `⠀Juslikepie\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LVCJPUJJL⠀`\n:x: `⠀Krimson99\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#Q2CYRCCV\u00A0⠀`\n:x: `⠀KrimsonRuler\u00A0\u00A0\u00A0⠀` `⠀#PU00JY2J\u00A0⠀`\n:x: `⠀kyndawg\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJY8828CU⠀`\n:x: `⠀La Chupacabra\u00A0\u00A0⠀` `⠀#Q9YPPU2Y\u00A0⠀`\n:x: `⠀Nevin\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#PVC2R8R8Q⠀`",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805326343481982997",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:39:22.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: `⠀Pancakes21\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9GVC2V8LP⠀`\n:x: `⠀quirky\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#L8R9LC2YC⠀`\n:x: `⠀rhino0117\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#20GU20C0V⠀`\n:x: `⠀Sogan\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#VRYR82YJ\u00A0⠀`\n:x: `⠀Space Jesus\u00A0\u00A0\u00A0\u00A0⠀` `⠀#2QQY09GQR⠀`\n:x: `⠀supersmash\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJCJJGVLJ⠀`\n:x: `⠀tom\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LC8GVRJLV⠀`\n:x: `⠀Wavyboytrell\u00A0\u00A0\u00A0⠀` `⠀#LQQY0Y9JY⠀`\n:x: `⠀WILLY$$\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#Q0CJUVL28⠀`",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805326348473073664",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:39:23.716+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Usage",
+          "url": null,
+          "timestamp": null,
+          "description": "**`/add Conq`**\n*Clash player `Conq` is linked to your discord account.*\n\n**`/add #920GULQYG @someone`**\n*Clash player with tag `#920GULQYG` is linked to @someone's discord account.*\n\n**`/add Conq, mathsman, #920GULQYG`**\n*Clash players Conq, mathsman and #920GULQYG are linked to you.*",
+          "color": "#3498DB",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805326575037186069",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:40:17.733+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/add Arnold @ArnoldCoC",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "802848808627077131",
+          "name": "ArnoldCoC",
+          "discriminator": 1155,
+          "nickname": "ArnoldCoC",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "805326578820972624",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:40:18.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: Successfully linked **Arnold**  #C9GUUQ0R to ArnoldCoC.",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805330748479242260",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:56:52.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/add rhino0117 @Rhino0117",
+      "author": {
+        "id": "802848808627077131",
+        "name": "ArnoldCoC",
+        "discriminator": "1155",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802848808627077131/1bb267db6712d09e440ae6eb0fa2a7e4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "731722485539537018",
+          "name": "Rhino0117",
+          "discriminator": 6080,
+          "nickname": "Rhino0117",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "805330753290240050",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:56:53.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: Successfully linked **rhino0117**  #20GU20C0V to Rhino0117.",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805330861825327165",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:19.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/update",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805330871955619860",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:22.198+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Players on Discord: 8**\n:discord: `⠀Name           ⠀` `⠀Discord     ⠀`\n:x: `⠀Arnold         ⠀` `⠀ArnoldCoC   ⠀`\n:x: `⠀Artizas        ⠀` `⠀Artizas2    ⠀`\n:x: `⠀BlackStallion97⠀` `⠀BlackStallio⠀`\n:x: `⠀your grandpa   ⠀` `⠀BlackStallio⠀`\n:x: `⠀Goldencode     ⠀` `⠀Goldencode12⠀`\n:x: `⠀LittleAlchemist⠀` `⠀LittleAlchem⠀`\n:x: `⠀rhino0117      ⠀` `⠀Rhino0117   ⠀`\n:x: `⠀Z.Z            ⠀` `⠀Z.Z         ⠀`",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "728413270263726080",
+            "name": "discord",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/728413270263726080.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "356880752476028939",
+            "name": "No",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/356880752476028939.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "805330879425413161",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:23.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Players not on Discord: 38**\n:discord: `⠀Name\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀Tag\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀`\n:x: `⠀Adam\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#88R0Q88G\u00A0⠀`\n:x: `⠀Alpha Wolf\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#P09Q9PRYC⠀`\n:x: `⠀Arif BURHAN\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9V02JJV9Y⠀`\n:x: `⠀Aryan n. Mhatr\u00A0⠀` `⠀#Y20YYGP8R⠀`\n:x: `⠀BigBlueAircraft⠀` `⠀#LVPCRYUCQ⠀`\n:x: `⠀Bojovic1211\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJCPJ88P9⠀`\n:x: `⠀BOSS Mikecx\u00A0\u00A0\u00A0\u00A0⠀` `⠀#VCQCLL9L\u00A0⠀`\n:x: `⠀cafrsggh\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#82U9YRYJ2⠀`\n:x: `⠀CerMaC\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#YYQPPP989⠀`\n:x: `⠀chief stephen\u00A0\u00A0⠀` `⠀#2RC89GQP\u00A0⠀`\n:x: `⠀chief steve\u00A0\u00A0\u00A0\u00A0⠀` `⠀#J8QVG8R0\u00A0⠀`\n:x: `⠀Chris14\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#PPPRVCQ8Q⠀`\n:x: `⠀Deadpool\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9RY02YGC\u00A0⠀`\n:x: `⠀DrunkBarbarian\u00A0⠀` `⠀#2LLPVGYG\u00A0⠀`\n:x: `⠀Dylan\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#CJQ0Y2RJ\u00A0⠀`\n:x: `⠀DylanLCP\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#PRCQGVLPL⠀`\n:x: `⠀Fe4RLess\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LQY8C2VQG⠀`\n:x: `⠀FUT21News\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJQP2RRR2⠀`\n:x: `⠀goontown\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LV9QCUU9L⠀`\n:x: `⠀Guru\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LCQLJ80R0⠀`\n:x: `⠀IRAN\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#2JPQGG9UR⠀`\n:x: `⠀Jamesy Boii\u00A0\u00A0\u00A0\u00A0⠀` `⠀#CLRPQ298\u00A0⠀`\n:x: `⠀jess342\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9CUUVJ2JC⠀`\n:x: `⠀john\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#8UV998RC8⠀`\n:x: `⠀Juslikepie\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LVCJPUJJL⠀`\n:x: `⠀Krimson99\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#Q2CYRCCV\u00A0⠀`\n:x: `⠀KrimsonRuler\u00A0\u00A0\u00A0⠀` `⠀#PU00JY2J\u00A0⠀`\n:x: `⠀kyndawg\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJY8828CU⠀`\n:x: `⠀La Chupacabra\u00A0\u00A0⠀` `⠀#Q9YPPU2Y\u00A0⠀`\n:x: `⠀Nevin\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#PVC2R8R8Q⠀`\n:x: `⠀Pancakes21\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#9GVC2V8LP⠀`",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805330880243302410",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:24.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: `⠀quirky\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#L8R9LC2YC⠀`\n:x: `⠀Sogan\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#VRYR82YJ\u00A0⠀`\n:x: `⠀Space Jesus\u00A0\u00A0\u00A0\u00A0⠀` `⠀#2QQY09GQR⠀`\n:x: `⠀supersmash\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LJCJJGVLJ⠀`\n:x: `⠀tom\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#LC8GVRJLV⠀`\n:x: `⠀Wavyboytrell\u00A0\u00A0\u00A0⠀` `⠀#LQQY0Y9JY⠀`\n:x: `⠀WILLY$$\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0⠀` `⠀#Q0CJUVL28⠀`",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805330884894523434",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:25.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Usage",
+          "url": null,
+          "timestamp": null,
+          "description": "**`/add Conq`**\n*Clash player `Conq` is linked to your discord account.*\n\n**`/add #920GULQYG @someone`**\n*Clash player with tag `#920GULQYG` is linked to @someone's discord account.*\n\n**`/add Conq, mathsman, #920GULQYG`**\n*Clash players Conq, mathsman and #920GULQYG are linked to you.*",
+          "color": "#3498DB",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805330946672689153",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:40.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/add Adam @Staminoka",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "339895144860090371",
+          "name": "Staminoka",
+          "discriminator": 3739,
+          "nickname": "Adam",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "805330950447038464",
+      "type": "Default",
+      "timestamp": "2021-01-31T06:57:40.912+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: Successfully linked **Adam**  #88R0Q88G to Adam.",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805331684660084757",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:00:35.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wolf-prince is alpha wolf right?",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805331719217479711",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:00:44.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "802848808627077131",
+        "name": "ArnoldCoC",
+        "discriminator": "1155",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802848808627077131/1bb267db6712d09e440ae6eb0fa2a7e4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805331733011890186",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:00:47.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okok",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805331813027414017",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:01:06.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/add Alpha Wolf @Wolf_prince21",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "742807079315832943",
+          "name": "Wolf_prince21",
+          "discriminator": 9989,
+          "nickname": "Wolf_prince21",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "805331815316586507",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:01:07.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: Successfully linked **Alpha Wolf**  #P09Q9PRYC to Wolf_prince21.",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805331942265978901",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:01:37.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/add adam @Staminoka",
+      "author": {
+        "id": "802848808627077131",
+        "name": "ArnoldCoC",
+        "discriminator": "1155",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802848808627077131/1bb267db6712d09e440ae6eb0fa2a7e4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "339895144860090371",
+          "name": "Staminoka",
+          "discriminator": 3739,
+          "nickname": "Adam",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "805331945143664660",
+      "type": "Default",
+      "timestamp": "2021-01-31T07:01:38.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: Successfully linked **Adam**  #88R0Q88G to Adam.",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805458627196223508",
+      "type": "Default",
+      "timestamp": "2021-01-31T15:25:01.421+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/upgrade",
+      "author": {
+        "id": "539941684641792030",
+        "name": "LittleAlchemist",
+        "discriminator": "5503",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539941684641792030/497d7d0f9f1433a898d1dcf3d669587b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805458632275525644",
+      "type": "Default",
+      "timestamp": "2021-01-31T15:25:02.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LittleAlchemist's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH8 and BH4\n\n**Elixir Troops**\n:sbarb::s3: for 150k :sk_elixir: (TH max 5)\n:sarcher::s4: for 750k :sk_elixir: (TH max 5)\n:sgoblin::s4: for 750k :sk_elixir: (TH max 5)\n:shealer::b3: for 1.5m :sk_elixir:\n:spekka::sk_unlocked: for 1.5m :sk_elixir:\n:swb::b5: for 1.75m :sk_elixir:\n:sdragon::s2: for 2m :sk_elixir: (TH max 3)\n:sgiant::b5: for 2m :sk_elixir:\n:swizard::b5: for 2.25m :sk_elixir:\n:sloon::b5: for 2.5m :sk_elixir:\n\n**Dark Elixir Troops**\n:sminion::s3: for 15k :sk_darkelixir: (TH max 4)\n:shog::s3: for 20k :sk_darkelixir: (TH max 4)\n:svalk::sk_unlocked: for 1.5m :sk_elixir:\n\n**Elixir Spells**\n:slightning::s3: for 500k :sk_elixir: (TH max 5)\n:shealing::s3: for 600k :sk_elixir: (TH max 5)\n:srage::s3: for 900k :sk_elixir: (TH max 5)",
+          "fields": [
+            {
+              "name": "Dark Elixir Spells",
+              "value": ":spoison::sk_unlocked: for 1m :sk_elixir:",
+              "isInline": false
+            },
+            {
+              "name": "Heroes",
+              "value": ":bk::s5: for 18k :sk_darkelixir: (TH max 10)",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":srbab::s5: for 50k :bElixir: (BH max 8)\n:ssneaky::s5: for 60k :bElixir: (BH max 8)\n:sbeta::s3: for 80k :bElixir: (BH max 8)\n:sbomber::s2: for 150k :bElixir: (BH max 8)\n:sboxer::s5: for 300k :bElixir: (BH max 8)\n:sbdragon::s5: for 320k :bElixir: (BH max 8)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805458634556440687",
+      "type": "Default",
+      "timestamp": "2021-01-31T15:25:03.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Creator Code: Sidekick",
+          "url": "https://clashsidekick.com/r/creatorcode",
+          "timestamp": null,
+          "description": "Free! Tap here & set our code, and Supercell will support us with a % of your in-game spending for 7 days",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806087878932824076",
+      "type": "Default",
+      "timestamp": "2021-02-02T09:05:26.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/add #clan-feed channel",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806087880647770112",
+      "type": "Default",
+      "timestamp": "2021-02-02T09:05:27.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":x: No matches found for `#clan-feed channel`. Perhaps try their tag?",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103345247813672",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:06:54.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/channel #clan-feed",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103347538558976",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:06:54.729+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sidekick is now linked to DeadSages in this channel",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103348179763210",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:06:54.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Added #clan-feed to DeadSages**",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103349631778836",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:06:55.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DeadSages (#2YGUPUU82) Channels",
+          "url": null,
+          "timestamp": null,
+          "description": "#clan-feed, #war-log, #sidekick",
+          "color": "#000001",
+          "fields": [
+            {
+              "name": "War Log",
+              "value": "Channel: #war-log\n:x: Enabled\n:x: Scoreboard\n:x: Hitrates\n:x: Open Bases",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103350419783680",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:06:55.416+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This channel accepts commands for **DeadSages**",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103530955210764",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:07:38.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/channel #clan-feed feed",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103533987823657",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:07:39.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sidekick is now linked to DeadSages in this channel",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103535044395038",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:07:39.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Added #clan-feed to DeadSages**",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103535724920864",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:07:39.596+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DeadSages (#2YGUPUU82) Channels",
+          "url": null,
+          "timestamp": null,
+          "description": "#clan-feed, #war-log, #sidekick",
+          "color": "#000001",
+          "fields": [
+            {
+              "name": "War Log",
+              "value": "Channel: #war-log\n:x: Enabled\n:x: Scoreboard\n:x: Hitrates\n:x: Open Bases",
+              "isInline": true
+            },
+            {
+              "name": "Clan Feed",
+              "value": "Channel: #clan-feed\n:x: Enabled\n:x: League Promotions\n:x: Clan Join/Leaves\n:x: Player Upgrades\n:x: Weekly Best",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806103536386441277",
+      "type": "Default",
+      "timestamp": "2021-02-02T10:07:39.754+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This channel accepts commands for **DeadSages**",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806131761204690954",
+      "type": "Default",
+      "timestamp": "2021-02-02T11:59:49.075+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/feed",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806131829340897310",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:00:05.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/war",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806131832919687238",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:00:06.173+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Scoreboard**:gap:\n`⠀  DeadSages⠀`    :Clan:    `⠀CHAOS      ⠀`\n`⠀       0/90⠀`    :sk_star_new:    `⠀0/90       ⠀`\n`⠀       0.0%⠀`    :per:    `⠀0.0%       ⠀`\n`⠀       0/30⠀`    :sk_sword_empty:    `⠀0/30       ⠀`\n\nWar starts in **1 hours and 17 minutes**.\n:gap:\n**‎CHAOS Open Bases**:gap:\n:gap: :gap::gap::per: :No: :Th:  **Name and Caller**\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b1: :t13:  Scott\\_on\\_CoC** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b2: :t12:  Eric** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b3: :t12:  Fishinfool** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b4: :t12:  Ussama87sh** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b5: :t12:  EJ** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b6: :t12:  King Leggy** **",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806131839685099541",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:00:07.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b7: :t12:  maca11ister** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b8: :t12:  Aserisk** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b9: :t11:  PrettyBoy** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b10: :t11:  dan** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b11: :t11:  jake whyte** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b12: :t11:  Shock** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b13: :t11:  xHansx** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b14: :t11:  the warrior** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b15: :t11:  Maxipoder** **",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806131846433079297",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:00:09.395+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b16: :t11:  Young Tango™** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b17: :t11:  REDSKULL** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b18: :t10:  NBAYOUNGJAYLON** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b19: :t10:  TheLegend27** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b20: :t10:  Johnny** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b21: :t9:  cheeseburglor** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b22: :t9:  Aserisk 2.0** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b23: :t9:  Gabe** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b24: :t9:  Slayer1** **",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806131855845228554",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:00:11.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b25: :t9:  Jay** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b26: :t9:  Tito177** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b27: :t9:  BradyTurtle** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b28: :t9:  Luis** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b29: :t9:  Saint Laurent** **\n‎:sk_star_empty::sk_star_empty::sk_star_empty: :s0: :b30: :t9:  Thermal** **\n​",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "➕",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2795.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "806131942809403422",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:00:32.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/top",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806143872018415672",
+      "type": "Default",
+      "timestamp": "2021-02-02T12:47:56.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hopefully it is not the real opponent's lineup for war 1 \uD83D\uDE02",
+      "author": {
+        "id": "802848808627077131",
+        "name": "ArnoldCoC",
+        "discriminator": "1155",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802848808627077131/1bb267db6712d09e440ae6eb0fa2a7e4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806147773472702474",
+      "type": "Default",
+      "timestamp": "2021-02-02T13:03:26.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":swb::b2: ZZ.mini upgraded Wall Breaker\n:sfreeze::b6: BlackStallion97 upgraded Freeze\n:sclone::b3: Arnold upgraded Clone\n:scanon::s15: rhino0117 upgraded Cannon Cart\n:sbarb::s4: Alpha Wolf upgraded Barbarian\n:aq::s33: your grandpa upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806225323279646761",
+      "type": "Default",
+      "timestamp": "2021-02-02T18:11:36.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":slightning::b5: chief stephen upgraded Lightning\n:sgolem::b2: chief stephen upgraded Golem\n:srbab::s5: chief stephen upgraded Raged Barbarian\n:aq::s3: chief steve upgraded Archer Queen\n:srbab::s4: kyndawg upgraded Raged Barbarian\n:ssneaky::s5: kyndawg upgraded Sneaky Archer\n:aq::s44: Adam upgraded Archer Queen\n:bk::s39: rhino0117 upgraded Barbarian King",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806306421158445106",
+      "type": "Default",
+      "timestamp": "2021-02-02T23:33:51.253+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":srage::b4: Artizas upgraded Rage\n:ssneaky::s7: Artizas upgraded Sneaky Archer\n:sgiant::b2: ZZ.mini upgraded Giant\n:sm::s13: Z.Z upgraded Battle Machine\n:sboxer::s4: kyndawg upgraded Boxer Giant\n:seq::b2: quirky upgraded Earthquake\n:sk_bh::t5: LittleAlchemist is now Builder Hall 5\n:aq::s9: Alpha Wolf upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806383293712695296",
+      "type": "Default",
+      "timestamp": "2021-02-03T04:39:19.098+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":scanon::s3: chief steve upgraded Cannon Cart\n:aq::b40: Arnold upgraded Archer Queen\n:sgolem::sk_unlocked: Goldencode unlocked Golem\n:bk::s8: Goldencode upgraded Barbarian King\n:scanon::s14: your grandpa upgraded Cannon Cart",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806456491993071616",
+      "type": "Default",
+      "timestamp": "2021-02-03T09:30:10.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sgolem::b4: CerMaC upgraded Golem\n:sminion::b7: Adam upgraded Minion",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806531615214927892",
+      "type": "Default",
+      "timestamp": "2021-02-03T14:28:41.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":srbab::s7: Artizas upgraded Raged Barbarian\n:svalk::s3: Guru upgraded Valkyrie\n:sloon::b2: ZZ.mini upgraded Balloon\n:sbeta::s3: kyndawg upgraded Beta Minion\n:switch::sk_unlocked: Alpha Wolf unlocked Witch",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806614608390389840",
+      "type": "Default",
+      "timestamp": "2021-02-03T19:58:28.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbomber::s4: LittleAlchemist upgraded Bomber\n:bk::s7: LittleAlchemist upgraded Barbarian King\n:ssneaky::s13: IRAN upgraded Sneaky Archer",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806700256439697419",
+      "type": "Default",
+      "timestamp": "2021-02-04T01:38:48.901+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sgoblin::b2: ZZ.mini upgraded Goblin\n:sjump::b2: Z.Z upgraded Jump\n:sm::s12: Arnold upgraded Battle Machine\n:sminion::sk_unlocked: tom unlocked Minion\n:bk::s3: tom upgraded Barbarian King\n:Th::t7: tom is now Town Hall 7",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806700401058906143",
+      "type": "Default",
+      "timestamp": "2021-02-04T01:39:23.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/upgrade",
+      "author": {
+        "id": "539941684641792030",
+        "name": "LittleAlchemist",
+        "discriminator": "5503",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539941684641792030/497d7d0f9f1433a898d1dcf3d669587b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806700405824290877",
+      "type": "Default",
+      "timestamp": "2021-02-04T01:39:24.517+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LittleAlchemist's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH8 and BH5\n\n**Elixir Troops**\n:sbarb::s3: for 150k :sk_elixir: (TH max 5)\n:sarcher::s4: for 750k :sk_elixir: (TH max 5)\n:sgoblin::s4: for 750k :sk_elixir: (TH max 5)\n:shealer::b3: for 1.5m :sk_elixir:\n:spekka::sk_unlocked: for 1.5m :sk_elixir:\n:swb::b5: for 1.75m :sk_elixir:\n:sgiant::b5: for 2m :sk_elixir:\n:swizard::b5: for 2.25m :sk_elixir:\n:sloon::b5: for 2.5m :sk_elixir:\n:sdragon::b3: for 2.75m :sk_elixir:\n\n**Dark Elixir Troops**\n:sminion::s3: for 15k :sk_darkelixir: (TH max 4)\n:shog::s3: for 20k :sk_darkelixir: (TH max 4)\n:svalk::sk_unlocked: for 1.5m :sk_elixir:\n\n**Elixir Spells**\n:slightning::s3: for 500k :sk_elixir: (TH max 5)\n:shealing::s3: for 600k :sk_elixir: (TH max 5)\n:srage::s3: for 900k :sk_elixir: (TH max 5)",
+          "fields": [
+            {
+              "name": "Dark Elixir Spells",
+              "value": ":spoison::b2: for 25k :sk_darkelixir:\n:seq::sk_unlocked: for 2m :sk_elixir:",
+              "isInline": false
+            },
+            {
+              "name": "Heroes",
+              "value": ":bk::s8: for 24k :sk_darkelixir: (TH max 10)\n:sm::sk_unlocked: for 900k :bElixir:",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":srbab::s5: for 50k :bElixir: (BH max 10)\n:ssneaky::s5: for 60k :bElixir: (BH max 10)\n:sbeta::s3: for 80k :bElixir: (BH max 10)\n:sbomber::s5: for 280k :bElixir: (BH max 10)\n:sboxer::s5: for 300k :bElixir: (BH max 10)\n:sbdragon::s5: for 320k :bElixir: (BH max 10)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806700407119151125",
+      "type": "Default",
+      "timestamp": "2021-02-04T01:39:24.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Creator Code: Sidekick",
+          "url": "https://clashsidekick.com/r/creatorcode",
+          "timestamp": null,
+          "description": "Free! Tap here & set our code, and Supercell will support us with a % of your in-game spending for 7 days",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806780326201524234",
+      "type": "Default",
+      "timestamp": "2021-02-04T06:56:59.02+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":seq::s2: Guru upgraded Earthquake\n:svalk::b4: Guru upgraded Valkyrie\n:sbomber::s13: BlackStallion97 upgraded Bomber\n:Th::t5: kyndawg is now Town Hall 5\n:spekka::sk_unlocked: LittleAlchemist unlocked P.E.K.K.A\n:sk_bh::t9: rhino0117 is now Builder Hall 9\n:gw::s4: your grandpa upgraded Grand Warden",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806860241383063593",
+      "type": "Default",
+      "timestamp": "2021-02-04T12:14:32.284+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":shog::s2: chief stephen upgraded Hog Rider\n:bk::s13: chief steve upgraded Barbarian King\n:sboxer::s2: ZZ.mini upgraded Boxer Giant\n:Th::t5: ZZ.mini is now Town Hall 5\n:slightning::sk_unlocked: kyndawg unlocked Lightning\n:ssneaky::s6: kyndawg upgraded Sneaky Archer\n:sbarb::b6: DylanLCP upgraded Barbarian",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806944630880731165",
+      "type": "Default",
+      "timestamp": "2021-02-04T17:49:52.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":slightning::b6: chief steve upgraded Lightning\n:slightning::sk_unlocked: ZZ.mini unlocked Lightning\n:sm::s14: Z.Z upgraded Battle Machine\n:srbab::s5: kyndawg upgraded Raged Barbarian\n:sarcher::b7: rhino0117 upgraded Archer\n:bk::s9: Goldencode upgraded Barbarian King",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807056242698616862",
+      "type": "Default",
+      "timestamp": "2021-02-05T01:13:22.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":srbab::s6: chief stephen upgraded Raged Barbarian\n:aq::s4: chief steve upgraded Archer Queen\n:shealing::s3: tom upgraded Healing\n:shog::sk_unlocked: tom unlocked Hog Rider\n:sm::s8: Guru upgraded Battle Machine\n:sgoblin::b5: BigBlueAircraft upgraded Goblin\n:smaster: Z.Z pushed to Master League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807131529548791848",
+      "type": "Default",
+      "timestamp": "2021-02-05T06:12:32.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":shog::s6: your grandpa upgraded Hog Rider\n:srbab::s6: kyndawg upgraded Raged Barbarian\n:gw::s17: HyperZ3 upgraded Grand Warden\n:ssneaky::s6: chief stephen upgraded Sneaky Archer\n:spekka::sk_unlocked: Goldencode unlocked P.E.K.K.A\n:aq::s15: Guru upgraded Archer Queen\n:gw::s11: Adam upgraded Grand Warden\n:schampion: Arnold pushed to Champion League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807204229529075712",
+      "type": "Default",
+      "timestamp": "2021-02-05T11:01:25.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sm::t30: BlackStallion97 upgraded Battle Machine\n:shog::b2: Artizas upgraded Hog Rider",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807281742478049311",
+      "type": "Default",
+      "timestamp": "2021-02-05T16:09:25.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbarb::b3: kyndawg upgraded Barbarian\n:sbeta::s4: kyndawg upgraded Beta Minion\n:switch::sk_unlocked: CerMaC unlocked Witch\n:sbomber::s7: Goldencode upgraded Bomber\n:scanon::s4: chief steve upgraded Cannon Cart",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807365399204855872",
+      "type": "Default",
+      "timestamp": "2021-02-05T21:41:51.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":svalk::sk_unlocked: LittleAlchemist unlocked Valkyrie\n:srbab::s13: Pedro R. upgraded Raged Barbarian\n:sarcher::b3: ZZ.mini upgraded Archer\n:swizard::sk_unlocked: ZZ.mini unlocked Wizard\n:ssilver: ZZ.mini pushed to Silver League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807436277728542720",
+      "type": "Default",
+      "timestamp": "2021-02-06T02:23:30.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "cafrsghh 3 Joined",
+          "url": "https://www.clashofstats.com/players/cafrsghh+3-9U09GYGYG/achievements",
+          "timestamp": null,
+          "description": ":Th:11 :bk:25:aq:39:gw:10 :Trophy:3220 :sk_star_new:708",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807448185895125022",
+      "type": "Default",
+      "timestamp": "2021-02-06T03:10:49.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":swizard::b5: LittleAlchemist upgraded Wizard\n:slava::b3: Pedro R. upgraded Lava Hound\n:sdragon::b5: Jamesy Boii upgraded Dragon\n:snight::s5: Jamesy Boii upgraded Night Witch\n:sboxer::s3: ZZ.mini upgraded Boxer Giant\n:Th::t6: ZZ.mini is now Town Hall 6\n:spekka::b3: WILLY$$ upgraded P.E.K.K.A\n:sbeta::s2: chief stephen upgraded Beta Minion\n:aq::s5: chief steve upgraded Archer Queen\n:shog::s5: Arif BURHAN upgraded Hog Rider\n:seq::sk_unlocked: Alpha Wolf unlocked Earthquake\n:sloon::s5: Alpha Wolf upgraded Balloon",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807522818119303168",
+      "type": "Default",
+      "timestamp": "2021-02-06T08:07:22.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s31: Space Jesus upgraded Archer Queen\n:sfreeze::s3: Arnold upgraded Freeze\n:swizard::b5: Aryan n. Mhatr upgraded Wizard",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807597582947844136",
+      "type": "Default",
+      "timestamp": "2021-02-06T13:04:28.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":swizard::sk_unlocked: kyndawg unlocked Wizard\n:sbomber::s5: LittleAlchemist upgraded Bomber\n:sboxer::s4: ZZ.mini upgraded Boxer Giant\n:srbab::s8: Artizas upgraded Raged Barbarian\n:sm::s21: Adam upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807679275176165408",
+      "type": "Default",
+      "timestamp": "2021-02-06T18:29:05.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sdragon::b3: Goldencode upgraded Dragon\n:bk::s14: chief steve upgraded Barbarian King\n:Th::t8: Artizas is now Town Hall 8",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807769872666198036",
+      "type": "Default",
+      "timestamp": "2021-02-07T00:29:05.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sm::s14: Space Jesus upgraded Battle Machine\n:sbarb::b3: ZZ.mini upgraded Barbarian\n:bk::s25: Dylan upgraded Barbarian King\n:sbomber::s8: Goldencode upgraded Bomber\n:slava::sk_unlocked: Alpha Wolf unlocked Lava Hound",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807856192281772044",
+      "type": "Default",
+      "timestamp": "2021-02-07T06:12:05.482+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sarcher::b3: kyndawg upgraded Archer\n:spoison::sk_unlocked: Artizas unlocked Poison",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807903332496048148",
+      "type": "Default",
+      "timestamp": "2021-02-07T09:19:24.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "KingVon Joined",
+          "url": "https://www.clashofstats.com/players/KingVon-2G8Q9JG0Q/achievements",
+          "timestamp": null,
+          "description": ":Th:9 :bk:10:aq:6 :Trophy:1929 :sk_star_new:181",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "807937562915504128",
+      "type": "Default",
+      "timestamp": "2021-02-07T11:35:25.753+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":gw::sk_unlocked: rhino0117 unlocked Grand Warden\n:Th::t11: rhino0117 is now Town Hall 11\n:shealing::sk_unlocked: ZZ.mini unlocked Healing\n:swizard::s2: ZZ.mini upgraded Wizard\n:svalk::s2: Z.Z upgraded Valkyrie\n:sm::s15: Z.Z upgraded Battle Machine\n:srage::sk_unlocked: tom unlocked Rage\n:sgiant::b4: tom upgraded Giant",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808023602296258590",
+      "type": "Default",
+      "timestamp": "2021-02-07T17:17:19.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":shog::s3: chief stephen upgraded Hog Rider",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808030119171588098",
+      "type": "Default",
+      "timestamp": "2021-02-07T17:43:12.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "KingVon Left",
+          "url": "https://www.clashofstats.com/players/KingVon-2G8Q9JG0Q/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808116232259108984",
+      "type": "Default",
+      "timestamp": "2021-02-07T23:25:23.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":swizard::b2: kyndawg upgraded Wizard\n:shogglider::s2: rhino0117 upgraded Hog Glider\n:gw::s2: rhino0117 upgraded Grand Warden\n:scanon::s5: chief steve upgraded Cannon Cart\n:sloon::s4: Artizas upgraded Balloon",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808201695578292224",
+      "type": "Default",
+      "timestamp": "2021-02-08T05:04:59.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sboxer::s13: Pedro R. upgraded Boxer Giant\n:sm::s13: Arnold upgraded Battle Machine\n:sm::s4: Chris14 upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808238994919129088",
+      "type": "Default",
+      "timestamp": "2021-02-08T07:33:12.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "End of Week: DeadSages's Top 50 Gainers This Season",
+          "url": null,
+          "timestamp": null,
+          "description": "Starting Mon Jan 25, last updated 2 hours ago",
+          "fields": [
+            {
+              "name": ":sk_gold: Gold Looted",
+              "value": "29,128,190  Chris14\n24,824,664  Arnold\n24,742,344  Z.Z\n21,657,365  Alpha Wolf\n21,287,044  Artizas\n21,076,421  Pedro R.\n20,698,386  your grandpa\n18,613,464  Guru\n18,302,286  Adam\n12,734,379  BlackStallion97\n12,422,771  rhino0117\n9,472,412  chief steve\n8,453,895  Space Jesus\n6,124,690  LittleAlchemist\n5,870,585  ZZ.mini\n5,862,029  Goldencode\n5,827,613  tom\n3,652,431  Jamesy Boii\n2,917,805  chief stephen\n2,312,939  kyndawg\n2,061,734  BigBlueAircraft\n1,907,293  Arif BURHAN\n900,600  cafrsggh\n643,276  quirky\n627,371  CerMaC\n511,362  Pancakes21\n88,000  WILLY$$\n70,000  Dylan\n66,312  supersmash\n30,750  Aryan n. Mhatr",
+              "isInline": false
+            },
+            {
+              "name": ":sk_elixir: Elixir Looted",
+              "value": "29,689,484  Chris14\n28,209,435  Arnold\n27,212,647  Z.Z\n22,132,042  Pedro R.\n21,501,776  your grandpa\n20,744,879  Alpha Wolf\n19,177,347  Adam\n18,679,542  Guru\n17,928,276  Artizas\n13,512,557  BlackStallion97\n12,694,810  rhino0117\n10,365,952  Space Jesus\n9,966,148  chief steve\n7,183,287  Goldencode\n6,531,695  ZZ.mini\n6,173,947  LittleAlchemist\n5,861,198  tom\n3,969,973  Jamesy Boii\n2,764,841  chief stephen\n2,494,105  BigBlueAircraft\n2,225,032  Arif BURHAN\n2,095,998  kyndawg\n937,991  cafrsggh\n622,147  quirky\n597,940  Pancakes21\n532,900  CerMaC\n117,604  supersmash\n88,000  WILLY$$\n70,000  Dylan\n10,250  Aryan n. Mhatr",
+              "isInline": false
+            },
+            {
+              "name": ":sk_darkelixir: Dark Elixir Looted",
+              "value": "293,001  Arnold\n220,950  Chris14\n211,773  Z.Z\n187,244  Pedro R.\n177,359  Adam\n173,653  rhino0117\n134,914  Guru\n118,474  your grandpa\n106,057  Alpha Wolf\n94,497  Space Jesus\n89,355  BlackStallion97\n58,018  chief steve\n38,988  Jamesy Boii\n36,987  Goldencode\n29,279  Artizas\n19,169  LittleAlchemist\n15,076  chief stephen\n14,669  Arif BURHAN\n10,368  BigBlueAircraft\n8,858  IRAN\n6,998  Pancakes21\n4,924  cafrsggh\n4,191  tom\n3,279  CerMaC\n2,416  quirky\n697  supersmash\n330  Dylan\n315  ZZ.mini\n250  WILLY$$\n130  Aryan n. Mhatr",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808238996698169384",
+      "type": "Default",
+      "timestamp": "2021-02-08T07:33:13.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "fields": [
+            {
+              "name": ":sk_castle: Donations",
+              "value": "5,053  Z.Z\n3,525  Arnold\n1,693  cafrsggh\n1,532  rhino0117\n1,433  BlackStallion97\n789  Space Jesus\n778  Pedro R.\n278  Adam\n202  chief steve\n190  Guru\n182  IRAN\n161  Alpha Wolf\n142  Chris14\n85  chief stephen\n81  Jamesy Boii\n40  Artizas\n31  BigBlueAircraft\n10  cafrsghh 3\n10  LittleAlchemist\n2  your grandpa",
+              "isInline": false
+            },
+            {
+              "name": ":sk_sword: Attack Wins",
+              "value": "122  Arnold\n93  Artizas\n93  Z.Z\n76  Alpha Wolf\n73  ZZ.mini\n65  Goldencode\n62  your grandpa\n61  Pedro R.\n60  Chris14\n59  rhino0117\n56  kyndawg\n50  BlackStallion97\n46  Guru\n40  Space Jesus\n35  LittleAlchemist\n34  Adam\n32  chief stephen\n21  chief steve\n18  tom\n15  Jamesy Boii\n5  Arif BURHAN\n4  BigBlueAircraft\n3  quirky\n1  cafrsghh 3\n1  supersmash\n1  Aryan n. Mhatr",
+              "isInline": false
+            },
+            {
+              "name": ":sclangames: Clan Games Points",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            },
+            {
+              "name": ":Trophy: Trophies",
+              "value": "657  Alpha Wolf\n540  Arnold\n510  Pedro R.\n376  ZZ.mini\n249  Z.Z\n218  LittleAlchemist\n204  kyndawg\n202  chief steve\n115  Adam\n110  BigBlueAircraft\n102  tom\n101  Artizas\n94  Guru\n46  HyperZ3\n37  quirky\n34  Arif BURHAN\n32  Pancakes21\n28  supersmash\n26  Jamesy Boii\n25  La Chupacabra\n21  CerMaC\n10  Chris14\n1  DylanLCP",
+              "isInline": false
+            },
+            {
+              "name": ":sk_bbtrophy: Builder Base Trophies",
+              "value": "416  ZZ.mini\n409  chief stephen\n357  Artizas\n278  LittleAlchemist\n265  kyndawg\n264  Alpha Wolf\n146  chief steve\n141  Arif BURHAN\n139  tom\n109  Jamesy Boii\n59  BigBlueAircraft\n55  Guru\n42  Adam\n34  your grandpa\n32  Arnold",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808241751432626177",
+      "type": "Default",
+      "timestamp": "2021-02-08T07:44:09.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oooo like this summary",
+      "author": {
+        "id": "740622948339023979",
+        "name": "Z.Z",
+        "discriminator": "2874",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740622948339023979/6259157048298de4fb0e7a93d0506a45.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808284286515281940",
+      "type": "Default",
+      "timestamp": "2021-02-08T10:33:11.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::b10: Goldencode upgraded Barbarian King\n:sgiant::b5: quirky upgraded Giant\n:sloon::b5: BigBlueAircraft upgraded Balloon",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808366829750976532",
+      "type": "Default",
+      "timestamp": "2021-02-08T16:01:10.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s40: rhino0117 upgraded Barbarian King\n:swizard::s5: CerMaC upgraded Wizard\n:slava::sk_unlocked: CerMaC unlocked Lava Hound\n:shealer::sk_unlocked: ZZ.mini unlocked Healer\n:sbeta::s12: Guru upgraded Beta Minion",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808459997381132288",
+      "type": "Default",
+      "timestamp": "2021-02-08T22:11:23.836+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sk_bh::t4: ZZ.mini is now Builder Hall 4\n:sbomber::s9: Dylan upgraded Bomber\n:bk::s6: Artizas upgraded Barbarian King\n:sk_bh::t6: Alpha Wolf is now Builder Hall 6\n:slightning::b7: Chris14 upgraded Lightning",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808504025938133012",
+      "type": "Default",
+      "timestamp": "2021-02-09T01:06:21.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WILLY$$ Left",
+          "url": "https://www.clashofstats.com/players/WILLY%24%24-Q0CJUVL28/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808553554096029797",
+      "type": "Default",
+      "timestamp": "2021-02-09T04:23:09.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":swb::b5: LittleAlchemist upgraded Wall Breaker\n:sbeta::s3: LittleAlchemist upgraded Beta Minion\n:swb::b3: ZZ.mini upgraded Wall Breaker\n:sdrop::s2: Arnold upgraded Drop Ship",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808640188069707816",
+      "type": "Default",
+      "timestamp": "2021-02-09T10:07:24.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sgoblin::b3: kyndawg upgraded Goblin\n:scanon::s3: quirky upgraded Cannon Cart",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808728632176148491",
+      "type": "Default",
+      "timestamp": "2021-02-09T15:58:51.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sk_promoted: LittleAlchemist has been promoted to Elder\n:sk_promoted: rhino0117 has been promoted to Co-Leader\n:sk_promoted: Jamesy Boii has been promoted to Co-Leader\n:sk_promoted: Goldencode has been promoted to Elder\n:seq::sk_unlocked: Artizas unlocked Earthquake\n:svalk::sk_unlocked: Artizas unlocked Valkyrie\n:sk_promoted: Artizas has been promoted to Elder\n:sk_promoted: cafrsggh has been promoted to Co-Leader\n:aq::s16: Guru upgraded Archer Queen\n:sk_promoted: Alpha Wolf has been promoted to Elder\n:schampion: rhino0117 pushed to Champion League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808826599973191701",
+      "type": "Default",
+      "timestamp": "2021-02-09T22:28:08.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbeta::s4: LittleAlchemist upgraded Beta Minion\n:gw::s3: rhino0117 upgraded Grand Warden\n:slightning::b7: Space Jesus upgraded Lightning\n:srbab::s9: Goldencode upgraded Raged Barbarian\n:spekka::sk_unlocked: Artizas unlocked P.E.K.K.A\n:sclone::sk_unlocked: Alpha Wolf unlocked Clone\n:sbomber::s2: Alpha Wolf upgraded Bomber",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808923130298761259",
+      "type": "Default",
+      "timestamp": "2021-02-10T04:51:43.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sdragon::b4: chief steve upgraded Dragon\n:seq::b3: Guru upgraded Earthquake",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "808995406645821440",
+      "type": "Default",
+      "timestamp": "2021-02-10T09:38:55.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "HIRO Joined",
+          "url": "https://www.clashofstats.com/players/HIRO-LCQCUQ88U/achievements",
+          "timestamp": null,
+          "description": ":Th:8 :bk:2 :Trophy:1388 :sk_star_new:0",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809014229768208434",
+      "type": "Default",
+      "timestamp": "2021-02-10T10:53:43.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s10: Alpha Wolf upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809109143054319627",
+      "type": "Default",
+      "timestamp": "2021-02-10T17:10:52.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sskeleton::s3: rhino0117 upgraded Skeleton\n:svalk::b6: rhino0117 upgraded Valkyrie\n:sfreeze::s4: Pedro R. upgraded Freeze\n:swizard::b3: ZZ.mini upgraded Wizard\n:sminion::b6: Arnold upgraded Minion\n:sbowler::sk_unlocked: Alpha Wolf unlocked Bowler\n:bk::s25: Chris14 upgraded Barbarian King\n:sgold: HIRO pushed to Gold League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809212157614358578",
+      "type": "Default",
+      "timestamp": "2021-02-11T00:00:12.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s8: LittleAlchemist upgraded Barbarian King\n:Th::t7: ZZ.mini is now Town Hall 7\n:scanon::s6: chief steve upgraded Cannon Cart\n:sdragon::b3: Artizas upgraded Dragon\n:spekka::s2: cafrsghh 3 upgraded P.E.K.K.A\n:srbab::s7: Alpha Wolf upgraded Raged Barbarian\n:aq::s28: Chris14 upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809309288753135667",
+      "type": "Default",
+      "timestamp": "2021-02-11T06:26:10.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s32: Space Jesus upgraded Archer Queen\n:srbab::s14: Pedro R. upgraded Raged Barbarian\n:sgolem::sk_unlocked: Artizas unlocked Golem\n:gw::s11: cafrsghh 3 upgraded Grand Warden\n:sm::s9: Guru upgraded Battle Machine\n:sloon::b6: Alpha Wolf upgraded Balloon\n:sm::s22: Adam upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809403142860308520",
+      "type": "Default",
+      "timestamp": "2021-02-11T12:39:07.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":svalk::s3: Z.Z upgraded Valkyrie\n:sbarb::b5: quirky upgraded Barbarian\n:bk::s7: Artizas upgraded Barbarian King",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809506198814326856",
+      "type": "Default",
+      "timestamp": "2021-02-11T19:28:37.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbdragon::s5: LittleAlchemist upgraded Baby Dragon/Builder Base\n:sdragon::sk_unlocked: ZZ.mini unlocked Dragon\n:sboxer::s5: ZZ.mini upgraded Boxer Giant\n:shealing::b7: Dylan upgraded Healing\n:sminion::s3: Goldencode upgraded Minion\n:sm::sk_unlocked: Artizas unlocked Battle Machine\n:aq::s17: Guru upgraded Archer Queen\n:aq::s11: Alpha Wolf upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809611546174816257",
+      "type": "Default",
+      "timestamp": "2021-02-12T02:27:14.463+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbarb::s3: LittleAlchemist upgraded Barbarian\n:shealer::b3: LittleAlchemist upgraded Healer\n:ed::sk_unlocked: rhino0117 unlocked Electro Dragon\n:sm::s16: Z.Z upgraded Battle Machine\n:sarcher::b4: tom upgraded Archer\n:bk::s12: Guru upgraded Barbarian King\n:sm::s10: Guru upgraded Battle Machine\n:sboxer::s9: Adam upgraded Boxer Giant",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809705665811578940",
+      "type": "Default",
+      "timestamp": "2021-02-12T08:41:14.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":ed::sk_unlocked: your grandpa unlocked Electro Dragon\n:snight::s6: Jamesy Boii upgraded Night Witch\n:sloon::s3: ZZ.mini upgraded Balloon\n:spoison::b5: Adam upgraded Poison",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809800109134708766",
+      "type": "Default",
+      "timestamp": "2021-02-12T14:56:31.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbowler::b3: BlackStallion97 upgraded Bowler\n:scanon::s7: chief steve upgraded Cannon Cart\n:aq::s6: chief steve upgraded Archer Queen\n:shog::b4: quirky upgraded Hog Rider\n:sgiant::s5: Guru upgraded Giant\n:sgolem::b2: BigBlueAircraft upgraded Golem",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "809901009015013407",
+      "type": "Default",
+      "timestamp": "2021-02-12T21:37:27.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sk_bh::t4: kyndawg is now Builder Hall 4\n:sbeta::s3: chief stephen upgraded Beta Minion\n:sm::sk_unlocked: chief steve unlocked Battle Machine\n:srbab::s7: quirky upgraded Raged Barbarian\n:sbdragon::s11: Guru upgraded Baby Dragon/Builder Base",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810126567056605215",
+      "type": "Default",
+      "timestamp": "2021-02-13T12:33:45.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s19: Nevin upgraded Archer Queen\n:bk::s25: Z.Z upgraded Barbarian King\n:aq::s28: Z.Z upgraded Archer Queen\n:bk::s31: Space Jesus upgraded Barbarian King\n:slightning::b5: Artizas upgraded Lightning\n:aq::s40: cafrsghh 3 upgraded Archer Queen\n:srage::sk_unlocked: ZZ.mini unlocked Rage\n:switch::b3: Jamesy Boii upgraded Witch\n:aq::s24: Jamesy Boii upgraded Archer Queen\n:scrystal: Pedro R. pushed to Crystal League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810190058798841887",
+      "type": "Default",
+      "timestamp": "2021-02-13T16:46:02.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "trrravesty Joined",
+          "url": "https://www.clashofstats.com/players/trrravesty-LC9JVPUGL/achievements",
+          "timestamp": null,
+          "description": ":Th:11 :bk:20:aq:19:gw:2 :Trophy:2873 :sk_star_new:177",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810232240679157770",
+      "type": "Default",
+      "timestamp": "2021-02-13T19:33:39.565+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aragorn Joined",
+          "url": "https://www.clashofstats.com/players/Aragorn-YJCVU2LV/achievements",
+          "timestamp": null,
+          "description": ":Th:11 :bk:50:aq:50:gw:20 :Trophy:3962 :sk_star_new:1124",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810232243737853993",
+      "type": "Default",
+      "timestamp": "2021-02-13T19:33:40.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "supersmash Left",
+          "url": "https://www.clashofstats.com/players/supersmash-LJCJJGVLJ/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810232245456601089",
+      "type": "Default",
+      "timestamp": "2021-02-13T19:33:40.704+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "La Chupacabra Left",
+          "url": "https://www.clashofstats.com/players/La+Chupacabra-Q9YPPU2Y/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810232247487168582",
+      "type": "Default",
+      "timestamp": "2021-02-13T19:33:41.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DrunkBarbarian Left",
+          "url": "https://www.clashofstats.com/players/DrunkBarbarian-2LLPVGYG/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810232249160040450",
+      "type": "Default",
+      "timestamp": "2021-02-13T19:33:41.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bojovic1211 Left",
+          "url": "https://www.clashofstats.com/players/Bojovic1211-LJCPJ88P9/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810247040662634507",
+      "type": "Default",
+      "timestamp": "2021-02-13T20:32:28.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RayOut Joined",
+          "url": "https://www.clashofstats.com/players/RayOut-98YU2GCLG/achievements",
+          "timestamp": null,
+          "description": ":Th:10 :bk:23:aq:24 :Trophy:2088 :sk_star_new:50",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810247042361589790",
+      "type": "Default",
+      "timestamp": "2021-02-13T20:32:28.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aragorn Left",
+          "url": "https://www.clashofstats.com/players/Aragorn-YJCVU2LV/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810265316625612803",
+      "type": "Default",
+      "timestamp": "2021-02-13T21:45:05.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GotrekTheGreat Joined",
+          "url": "https://www.clashofstats.com/players/GotrekTheGreat-89YP22JJL/achievements",
+          "timestamp": null,
+          "description": ":Th:10 :bk:19:aq:22 :Trophy:2718 :sk_star_new:444",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810284055315611731",
+      "type": "Default",
+      "timestamp": "2021-02-13T22:59:33.137+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "goontown Left",
+          "url": "https://www.clashofstats.com/players/goontown-LV9QCUU9L/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810284056503255100",
+      "type": "Default",
+      "timestamp": "2021-02-13T22:59:33.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "john Left",
+          "url": "https://www.clashofstats.com/players/john-8UV998RC8/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810297102570750003",
+      "type": "Default",
+      "timestamp": "2021-02-13T23:51:23.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbdragon::s11: HyperZ3 upgraded Baby Dragon/Builder Base\n:bk::s13: Guru upgraded Barbarian King\n:gw::s12: Adam upgraded Grand Warden\n:sm::s23: Adam upgraded Battle Machine\n:sm::sk_unlocked: LittleAlchemist unlocked Battle Machine\n:srbab::s10: Goldencode upgraded Raged Barbarian\n:sminer::sk_unlocked: Jamesy Boii unlocked Miner\n:sbomber::s9: Jamesy Boii upgraded Bomber\n:aq::s7: chief steve upgraded Archer Queen\n:sfreeze::s3: Chris14 upgraded Freeze",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810359948676562954",
+      "type": "Default",
+      "timestamp": "2021-02-14T04:01:07.524+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/upgrade",
+      "author": {
+        "id": "539941684641792030",
+        "name": "LittleAlchemist",
+        "discriminator": "5503",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539941684641792030/497d7d0f9f1433a898d1dcf3d669587b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810359953701077082",
+      "type": "Default",
+      "timestamp": "2021-02-14T04:01:08.722+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LittleAlchemist's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH8 and BH5\n\n**Elixir Troops**\n:sbarb::s4: for 500k :sk_elixir: (TH max 5)\n:sarcher::s4: for 750k :sk_elixir: (TH max 5)\n:sgoblin::s4: for 750k :sk_elixir: (TH max 5)\n:sgiant::b5: for 2m :sk_elixir:\n:sloon::b5: for 2.5m :sk_elixir:\n:spekka::s2: for 2.5m :sk_elixir: (TH max 3)\n:sdragon::b3: for 2.75m :sk_elixir:\n\n**Dark Elixir Troops**\n:sminion::s3: for 15k :sk_darkelixir: (TH max 4)\n:shog::s3: for 20k :sk_darkelixir: (TH max 4)\n:svalk::b2: for 25k :sk_darkelixir:\n:sgolem::sk_unlocked: for 2m :sk_elixir:\n\n**Elixir Spells**\n:slightning::s3: for 500k :sk_elixir: (TH max 5)\n:shealing::s3: for 600k :sk_elixir: (TH max 5)\n:srage::s3: for 900k :sk_elixir: (TH max 5)",
+          "fields": [
+            {
+              "name": "Dark Elixir Spells",
+              "value": ":spoison::b2: for 25k :sk_darkelixir:\n:seq::sk_unlocked: for 2m :sk_elixir:",
+              "isInline": false
+            },
+            {
+              "name": "Heroes",
+              "value": ":bk::s9: for 26k :sk_darkelixir: (TH max 10)\n:sm::s2: for 1m :bElixir: (TH max 5)",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":srbab::s5: for 50k :bElixir: (BH max 10)\n:ssneaky::s5: for 60k :bElixir: (BH max 10)\n:sbeta::s5: for 250k :bElixir: (BH max 10)\n:sboxer::s5: for 300k :bElixir: (BH max 10)\n:sbomber::s6: for 320k :bElixir: (BH max 10)\n:sbdragon::s6: for 360k :bElixir: (BH max 10)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810359954275827754",
+      "type": "Default",
+      "timestamp": "2021-02-14T04:01:08.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Creator Code: Sidekick",
+          "url": "https://clashsidekick.com/r/creatorcode",
+          "timestamp": null,
+          "description": "Free! Tap here & set our code, and Supercell will support us with a % of your in-game spending for 7 days",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810423312743923714",
+      "type": "Default",
+      "timestamp": "2021-02-14T08:12:54.695+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sboxer::s6: ZZ.mini upgraded Boxer Giant\n:sgiant::b5: HIRO upgraded Giant\n:sbarb::b4: tom upgraded Barbarian",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810512780792168468",
+      "type": "Default",
+      "timestamp": "2021-02-14T14:08:25.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sm::s17: Z.Z upgraded Battle Machine\n:sarcher::s4: Wavyboytrell upgraded Archer\n:scanon::s2: Artizas upgraded Cannon Cart\n:bk::s8: Artizas upgraded Barbarian King\n:sbdragon::s12: Guru upgraded Baby Dragon/Builder Base\n:aq::s18: Guru upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810602647925161995",
+      "type": "Default",
+      "timestamp": "2021-02-14T20:05:31.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sminion::sk_unlocked: ZZ.mini unlocked Minion\n:bk::sk_unlocked: ZZ.mini unlocked Barbarian King\n:bk::s24: RayOut upgraded Barbarian King",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810693876629241856",
+      "type": "Default",
+      "timestamp": "2021-02-15T02:08:02.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sarcher::b5: quirky upgraded Archer\n:svalk::b4: Z.Z upgraded Valkyrie\n:bk::s20: GotrekTheGreat upgraded Barbarian King\n:sbarb::s4: LittleAlchemist upgraded Barbarian\n:sclone::sk_unlocked: RayOut unlocked Clone\n:sbat::sk_unlocked: RayOut unlocked Bat\n:sicegolem::sk_unlocked: rhino0117 unlocked Ice Golem\n:scanon::s13: Arnold upgraded Cannon Cart\n:sfreeze::b5: Pedro R. upgraded Freeze\n:sbarb::b7: Pedro R. upgraded Barbarian\n:svalk::b5: Pedro R. upgraded Valkyrie",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810696717716029440",
+      "type": "Default",
+      "timestamp": "2021-02-15T02:19:19.52+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Darth Zecheriah Joined",
+          "url": "https://www.clashofstats.com/players/Darth+Zecheriah-808G9LY9R/achievements",
+          "timestamp": null,
+          "description": ":Th:9 :bk:15:aq:15 :Trophy:2154 :sk_star_new:363",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810761358357430323",
+      "type": "Default",
+      "timestamp": "2021-02-15T06:36:11.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DrunkBarbarian Joined",
+          "url": "https://www.clashofstats.com/players/DrunkBarbarian-2LLPVGYG/achievements",
+          "timestamp": null,
+          "description": ":Th:10 :bk:36:aq:40 :Trophy:3681 :sk_star_new:497",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810780135857848320",
+      "type": "Default",
+      "timestamp": "2021-02-15T07:50:47.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s26: Chris14 upgraded Barbarian King\n:spekka::s2: Alpha Wolf upgraded P.E.K.K.A\n:sbarb::b8: your grandpa upgraded Barbarian\n:shog::sk_unlocked: ZZ.mini unlocked Hog Rider\n:sk_bh::t7: Guru is now Builder Hall 7\n:Th::t6: kyndawg is now Town Hall 6\n:sjump::b3: Arnold upgraded Jump\n:aq::s8: chief steve upgraded Archer Queen\n:aq::s45: Adam upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810781146896007198",
+      "type": "Default",
+      "timestamp": "2021-02-15T07:54:49.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "End of Week: DeadSages's Top 50 Gainers This Season",
+          "url": null,
+          "timestamp": null,
+          "description": "Starting Mon Jan 25, last updated 4 minutes ago",
+          "fields": [
+            {
+              "name": ":sk_gold: Gold Looted",
+              "value": "59,299,820  Chris14\n53,182,852  Z.Z\n44,415,591  Arnold\n39,649,589  Pedro R.\n34,573,544  Alpha Wolf\n32,038,206  Artizas\n29,654,869  Guru\n27,913,988  rhino0117\n26,825,973  your grandpa\n25,350,341  ZZ.mini\n25,035,291  Adam\n20,247,346  chief steve\n17,554,614  Space Jesus\n15,362,293  BlackStallion97\n13,873,166  LittleAlchemist\n7,771,246  Goldencode\n7,326,875  Jamesy Boii\n5,827,613  tom\n5,665,047  HIRO\n5,656,314  chief stephen\n5,522,127  quirky\n4,204,155  cafrsghh 3\n4,186,463  Dylan\n3,408,037  Arif BURHAN\n3,182,275  BigBlueAircraft\n2,900,771  kyndawg\n2,801,779  trrravesty\n2,594,455  RayOut\n1,654,787  CerMaC\n1,135,600  cafrsggh\n757,886  Nevin\n565,033  DrunkBarbarian\n511,362  Pancakes21\n373,180  HyperZ3\n195,710  GotrekTheGreat\n126,646  Wavyboytrell\n30,750  Aryan n. Mhatr",
+              "isInline": false
+            },
+            {
+              "name": ":sk_elixir: Elixir Looted",
+              "value": "57,747,021  Chris14\n56,509,621  Z.Z\n46,522,769  Arnold\n43,339,573  Pedro R.\n29,584,692  Alpha Wolf\n28,573,382  Guru\n28,023,395  rhino0117\n27,744,423  your grandpa\n26,911,530  Artizas\n24,853,774  ZZ.mini\n24,446,781  Adam\n19,494,024  chief steve\n17,731,387  Space Jesus\n15,595,546  BlackStallion97\n15,031,156  LittleAlchemist\n10,058,567  Goldencode\n7,390,182  Jamesy Boii\n6,468,604  HIRO\n6,183,056  chief stephen\n5,861,198  tom\n5,285,072  quirky\n4,105,278  Dylan\n4,066,277  cafrsghh 3\n3,905,272  Arif BURHAN\n3,192,546  BigBlueAircraft\n2,774,516  trrravesty\n2,653,472  kyndawg\n2,216,122  RayOut\n1,537,263  CerMaC\n1,172,991  cafrsggh\n597,940  Pancakes21\n483,162  DrunkBarbarian\n422,771  Nevin\n361,222  HyperZ3\n230,657  GotrekTheGreat\n180,822  Wavyboytrell\n10,250  Aryan n. Mhatr",
+              "isInline": false
+            },
+            {
+              "name": ":sk_darkelixir: Dark Elixir Looted",
+              "value": "535,728  Z.Z\n479,464  Arnold\n420,191  Chris14\n371,751  Pedro R.\n339,210  rhino0117\n217,056  Adam\n168,169  Guru\n158,561  Space Jesus\n156,935  Alpha Wolf\n148,515  your grandpa\n144,330  chief steve\n106,009  BlackStallion97\n63,808  Jamesy Boii\n55,173  Artizas\n54,408  Goldencode\n52,673  LittleAlchemist\n30,671  cafrsghh 3\n30,389  chief stephen\n29,991  Dylan\n25,612  Arif BURHAN\n25,338  trrravesty\n19,244  ZZ.mini\n17,580  quirky\n14,459  HIRO\n13,277  RayOut\n13,239  BigBlueAircraft\n8,858  IRAN\n8,469  CerMaC\n6,998  Pancakes21\n6,194  cafrsggh\n6,005  DrunkBarbarian\n4,804  Nevin\n4,191  tom\n1,845  GotrekTheGreat\n1,089  HyperZ3\n239  Wavyboytrell\n130  Aryan n. Mhatr",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810781152356859925",
+      "type": "Default",
+      "timestamp": "2021-02-15T07:54:50.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "fields": [
+            {
+              "name": ":sk_castle: Donations",
+              "value": "8,438  Z.Z\n5,613  Arnold\n2,987  rhino0117\n1,904  BlackStallion97\n1,819  cafrsggh\n1,594  Pedro R.\n1,058  Space Jesus\n781  chief steve\n647  IRAN\n645  Guru\n354  Jamesy Boii\n323  Adam\n221  Alpha Wolf\n219  Chris14\n100  Artizas\n97  trrravesty\n86  chief stephen\n55  cafrsghh 3\n36  Darth Zecheriah\n31  GotrekTheGreat\n31  BigBlueAircraft\n20  Wavyboytrell\n10  LittleAlchemist\n4  ZZ.mini\n2  your grandpa",
+              "isInline": false
+            },
+            {
+              "name": ":sk_sword: Attack Wins",
+              "value": "190  Arnold\n178  Z.Z\n159  ZZ.mini\n116  Pedro R.\n115  Artizas\n105  Chris14\n102  rhino0117\n101  Alpha Wolf\n81  Goldencode\n80  HIRO\n70  your grandpa\n68  Space Jesus\n67  kyndawg\n64  Guru\n62  trrravesty\n56  BlackStallion97\n54  LittleAlchemist\n48  chief steve\n41  Adam\n40  chief stephen\n27  RayOut\n26  quirky\n23  Jamesy Boii\n18  tom\n8  Arif BURHAN\n7  Darth Zecheriah\n7  Dylan\n6  BigBlueAircraft\n4  GotrekTheGreat\n3  cafrsghh 3\n2  CerMaC\n1  Nevin\n1  Aryan n. Mhatr",
+              "isInline": false
+            },
+            {
+              "name": ":sclangames: Clan Games Points",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            },
+            {
+              "name": ":Trophy: Trophies",
+              "value": "548  Alpha Wolf\n421  Pedro R.\n420  ZZ.mini\n397  chief steve\n384  Arnold\n288  LittleAlchemist\n277  quirky\n191  kyndawg\n172  rhino0117\n159  Dylan\n106  Adam\n87  Chris14\n81  tom\n80  HIRO\n78  BlackStallion97\n78  HyperZ3\n75  CerMaC\n60  Artizas\n55  Jamesy Boii\n52  Goldencode\n43  BigBlueAircraft\n41  Arif BURHAN\n38  Nevin\n32  Pancakes21\n18  trrravesty\n17  Wavyboytrell\n1  DylanLCP",
+              "isInline": false
+            },
+            {
+              "name": ":sk_bbtrophy: Builder Base Trophies",
+              "value": "963  ZZ.mini\n543  chief stephen\n463  LittleAlchemist\n449  Artizas\n386  chief steve\n345  Alpha Wolf\n311  kyndawg\n263  Arif BURHAN\n235  rhino0117\n148  Jamesy Boii\n139  tom\n83  HIRO\n71  Space Jesus\n64  CerMaC\n59  BigBlueAircraft\n59  Z.Z\n58  trrravesty\n56  HyperZ3\n38  Arnold\n34  your grandpa\n29  Guru\n14  Adam",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810841434924122193",
+      "type": "Default",
+      "timestamp": "2021-02-15T11:54:22.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbarb::b4: ZZ.mini upgraded Barbarian",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810908181029978142",
+      "type": "Default",
+      "timestamp": "2021-02-15T16:19:36.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":srbab::s4: Darth Zecheriah upgraded Raged Barbarian\n:ssneaky::s4: Darth Zecheriah upgraded Sneaky Archer\n:sk_bh::t3: Darth Zecheriah is now Builder Hall 3\n:scanon::s17: Space Jesus upgraded Cannon Cart\n:sbdragon::s6: LittleAlchemist upgraded Baby Dragon/Builder Base\n:bk::s14: Guru upgraded Barbarian King\n:seq::s2: RayOut upgraded Earthquake\n:aq::s41: rhino0117 upgraded Archer Queen\n:gw::s4: rhino0117 upgraded Grand Warden",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810978954520952862",
+      "type": "Default",
+      "timestamp": "2021-02-15T21:00:50.018+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "seanh Joined",
+          "url": "https://www.clashofstats.com/players/seanh-Q8RQ8PCG9/achievements",
+          "timestamp": null,
+          "description": ":Th:10 :bk:7:aq:4 :Trophy:1524 :sk_star_new:5",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810978956224102401",
+      "type": "Default",
+      "timestamp": "2021-02-15T21:00:50.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "xanderthegreat Joined",
+          "url": "https://www.clashofstats.com/players/xanderthegreat-Q009JV9QV/achievements",
+          "timestamp": null,
+          "description": ":Th:9 :bk:5:aq:1 :Trophy:1149 :sk_star_new:9",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811006638877966366",
+      "type": "Default",
+      "timestamp": "2021-02-15T22:50:50.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::sk_unlocked: quirky unlocked Archer Queen\n:Th::t9: quirky is now Town Hall 9\n:aq::s25: Dylan upgraded Archer Queen\n:shog::s3: Artizas upgraded Hog Rider\n:aq::s20: trrravesty upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811098424770166804",
+      "type": "Default",
+      "timestamp": "2021-02-16T04:55:33.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sdragon::s3: seanh upgraded Dragon\n:sbdragon::s7: seanh upgraded Baby Dragon/Builder Base\n:bk::s34: Arnold upgraded Barbarian King\n:scanon::s8: chief steve upgraded Cannon Cart\n:sgold: quirky pushed to Gold League\n:sgold: Guru pushed to Gold League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811171739710521364",
+      "type": "Default",
+      "timestamp": "2021-02-16T09:46:53.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "HIRO Left",
+          "url": "https://www.clashofstats.com/players/HIRO-LCQCUQ88U/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811184176225058826",
+      "type": "Default",
+      "timestamp": "2021-02-16T10:36:18.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbeta::s4: chief stephen upgraded Beta Minion\n:bk::s2: ZZ.mini upgraded Barbarian King\n:shealing::sk_unlocked: kyndawg unlocked Healing\n:aq::s9: chief steve upgraded Archer Queen\n:schampion: Arnold pushed to Champion League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811271220166656041",
+      "type": "Default",
+      "timestamp": "2021-02-16T16:22:11.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s26: Z.Z upgraded Barbarian King\n:Th::t10: Z.Z is now Town Hall 10\n:snight::s2: GotrekTheGreat upgraded Night Witch\n:sfreeze::b5: Space Jesus upgraded Freeze\n:seq::s3: Space Jesus upgraded Earthquake\n:aq::s33: Space Jesus upgraded Archer Queen\n:sbat::sk_unlocked: Dylan unlocked Bat\n:sgiant::b6: Guru upgraded Giant",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811365283817717770",
+      "type": "Default",
+      "timestamp": "2021-02-16T22:35:58.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s29: Z.Z upgraded Archer Queen\n:aq::s20: Guru upgraded Archer Queen\n:bd::b2: chief steve upgraded Baby Dragon\n:sm::s24: Adam upgraded Battle Machine\n:slightning::b8: trrravesty upgraded Lightning\n:sbowler::s2: trrravesty upgraded Bowler",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811454065619763240",
+      "type": "Default",
+      "timestamp": "2021-02-17T04:28:45.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sgoblin::s4: Z.Z upgraded Goblin\n:sboxer::s5: kyndawg upgraded Boxer Giant\n:aq::s44: cafrsggh upgraded Archer Queen\n:gw::s28: cafrsggh upgraded Grand Warden",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811537986378399754",
+      "type": "Default",
+      "timestamp": "2021-02-17T10:02:13.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbomber::s8: quirky upgraded Bomber\n:aq::s2: quirky upgraded Archer Queen\n:bk::s16: your grandpa upgraded Barbarian King\n:sboxer::s7: ZZ.mini upgraded Boxer Giant\n:sbowler::sk_unlocked: Jamesy Boii unlocked Bowler\n:scanon::s3: Artizas upgraded Cannon Cart",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811624642296807504",
+      "type": "Default",
+      "timestamp": "2021-02-17T15:46:33.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":slava::b3: GotrekTheGreat upgraded Lava Hound\n:snight::s3: GotrekTheGreat upgraded Night Witch\n:scanon::s3: xanderthegreat upgraded Cannon Cart\n:shog::b4: Artizas upgraded Hog Rider\n:bk::s15: Guru upgraded Barbarian King\n:swizard::b3: kyndawg upgraded Wizard\n:sgolem::s6: Adam upgraded Golem\n:sboxer::s10: Adam upgraded Boxer Giant\n:aq::s21: trrravesty upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811719053207011398",
+      "type": "Default",
+      "timestamp": "2021-02-17T22:01:43.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":switch::sk_unlocked: quirky unlocked Witch\n:spekka::b4: Darth Zecheriah upgraded P.E.K.K.A\n:sloon::s3: chief stephen upgraded Balloon\n:bk::s9: LittleAlchemist upgraded Barbarian King\n:sfreeze::s2: Dylan upgraded Freeze\n:gw::s18: HyperZ3 upgraded Grand Warden\n:slava::sk_unlocked: chief steve unlocked Lava Hound\n:srbab::s9: chief steve upgraded Raged Barbarian\n:aq::s10: chief steve upgraded Archer Queen\n:scanon::s16: trrravesty upgraded Cannon Cart",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811811336517845022",
+      "type": "Default",
+      "timestamp": "2021-02-18T04:08:25.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbdragon::s2: Alpha Wolf upgraded Baby Dragon/Builder Base\n:sarcher::b5: Wavyboytrell upgraded Archer\n:aq::s5: seanh upgraded Archer Queen\n:sinvisible::sk_unlocked: rhino0117 unlocked Invisibility\n:ed::sk_unlocked: trrravesty unlocked Electro Dragon\n:aq::s22: trrravesty upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811897786504970250",
+      "type": "Default",
+      "timestamp": "2021-02-18T09:51:56.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sm::s18: Z.Z upgraded Battle Machine\n:aq::s34: your grandpa upgraded Archer Queen\n:bk::s3: ZZ.mini upgraded Barbarian King\n:Th::t8: ZZ.mini is now Town Hall 8\n:sbomber::s10: Jamesy Boii upgraded Bomber\n:svalk::s3: CerMaC upgraded Valkyrie\n:bd::sk_unlocked: CerMaC unlocked Baby Dragon\n:srbab::s7: kyndawg upgraded Raged Barbarian\n:ssneaky::s13: Pedro R. upgraded Sneaky Archer",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811966306744008734",
+      "type": "Default",
+      "timestamp": "2021-02-18T14:24:13.132+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Artizas Left",
+          "url": "https://www.clashofstats.com/players/Artizas-2PVU0RQR9/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811984666386890823",
+      "type": "Default",
+      "timestamp": "2021-02-18T15:37:10.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":slightning::s4: quirky upgraded Lightning\n:sk_bh::t4: chief stephen is now Builder Hall 4\n:bk::48: BlackStallion97 upgraded Barbarian King\n:slightning::b8: rhino0117 upgraded Lightning\n:bd::b5: rhino0117 upgraded Baby Dragon\n:ed::b2: rhino0117 upgraded Electro Dragon\n:sm::s14: Arnold upgraded Battle Machine\n:shaste::s3: Pedro R. upgraded Haste\n:sk_bh::t8: Pedro R. is now Builder Hall 8\n:gw::s3: trrravesty upgraded Grand Warden\n:scrystal: Darth Zecheriah pushed to Crystal League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812076922119913502",
+      "type": "Default",
+      "timestamp": "2021-02-18T21:43:45.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbeta::s5: quirky upgraded Beta Minion\n:spoison::sk_unlocked: ZZ.mini unlocked Poison\n:sjump::s2: Jamesy Boii upgraded Jump\n:slava::sk_unlocked: seanh unlocked Lava Hound\n:sbarb::b5: BigBlueAircraft upgraded Barbarian\n:bk::s21: trrravesty upgraded Barbarian King\n:smaster: cafrsggh pushed to Master League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812276754042454026",
+      "type": "Default",
+      "timestamp": "2021-02-19T10:57:49.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s27: Jamesy Boii upgraded Barbarian King\n:gw::s13: Adam upgraded Grand Warden\n:sm::s25: Adam upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812443531472928788",
+      "type": "Default",
+      "timestamp": "2021-02-19T22:00:32.374+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":gw::s5: rhino0117 upgraded Grand Warden\n:sclone::sk_unlocked: Z.Z unlocked Clone\n:bk::s27: Z.Z upgraded Barbarian King\n:sdragon::s2: ZZ.mini upgraded Dragon\n:sk_bh::t5: ZZ.mini is now Builder Hall 5\n:sgiant::b3: kyndawg upgraded Giant\n:sfreeze::b2: Guru upgraded Freeze\n:sbarb::b6: Guru upgraded Barbarian\n:aq::s21: Guru upgraded Archer Queen\n:aq::s11: chief steve upgraded Archer Queen\n:sm::s2: chief steve upgraded Battle Machine\n:sdragon::b3: LittleAlchemist upgraded Dragon\n:scrystal: chief steve pushed to Crystal League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812555672377491457",
+      "type": "Default",
+      "timestamp": "2021-02-20T05:26:08.849+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sogan Left",
+          "url": "https://www.clashofstats.com/players/Sogan-VRYR82YJ/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812589447581138985",
+      "type": "Default",
+      "timestamp": "2021-02-20T07:40:21.485+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "nic Joined",
+          "url": "https://www.clashofstats.com/players/nic-9RULVYYR/achievements",
+          "timestamp": null,
+          "description": ":Th:8 :bk:9 :Trophy:1021 :sk_star_new:6",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812604799005622292",
+      "type": "Default",
+      "timestamp": "2021-02-20T08:41:21.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":shealer::sk_unlocked: kyndawg unlocked Healer\n:sbomber::s2: kyndawg upgraded Bomber\n:bk::s16: Guru upgraded Barbarian King\n:shaste::b4: Arnold upgraded Haste\n:slava::s2: Alpha Wolf upgraded Lava Hound\n:sm::s3: chief steve upgraded Battle Machine\n:sbowler::b3: trrravesty upgraded Bowler",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812771258827669524",
+      "type": "Default",
+      "timestamp": "2021-02-20T19:42:48.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":shealer::b4: Space Jesus upgraded Healer\n:slightning::s2: ZZ.mini upgraded Lightning\n:seq::sk_unlocked: ZZ.mini unlocked Earthquake\n:spekka::sk_unlocked: ZZ.mini unlocked P.E.K.K.A\n:bd::sk_unlocked: quirky unlocked Baby Dragon\n:sbeta::s6: quirky upgraded Beta Minion\n:sm::s15: Arnold upgraded Battle Machine\n:scanon::s2: Alpha Wolf upgraded Cannon Cart\n:schampion: Arnold pushed to Champion League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "812932522936893470",
+      "type": "Default",
+      "timestamp": "2021-02-21T06:23:37.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s35: Space Jesus upgraded Archer Queen\n:aq::30: Z.Z upgraded Archer Queen\n:gw::s5: your grandpa upgraded Grand Warden\n:sbomber::s3: kyndawg upgraded Bomber\n:bk::s35: Arnold upgraded Barbarian King\n:sk_bh::t7: Alpha Wolf is now Builder Hall 7\n:swizard::b6: chief steve upgraded Wizard",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813094898903416832",
+      "type": "Default",
+      "timestamp": "2021-02-21T17:08:50.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sbat::sk_unlocked: Z.Z unlocked Bat\n:sgoblin::s5: Z.Z upgraded Goblin\n:svalk::sk_unlocked: ZZ.mini unlocked Valkyrie\n:swb::b3: kyndawg upgraded Wall Breaker\n:sjump::sk_unlocked: quirky unlocked Jump\n:sfreeze::sk_unlocked: quirky unlocked Freeze\n:sk_bh::t4: Darth Zecheriah is now Builder Hall 4\n:bk::s27: Chris14 upgraded Barbarian King\n:slightning::s2: Alpha Wolf upgraded Lightning\n:shog::b4: chief stephen upgraded Hog Rider\n:sarcher::s5: CerMaC upgraded Archer\n:aq::s13: chief steve upgraded Archer Queen\n:switch::b3: RayOut upgraded Witch\n:sm::s5: seanh upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813281583045935144",
+      "type": "Default",
+      "timestamp": "2021-02-22T05:30:39.439+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s23: GotrekTheGreat upgraded Archer Queen\n:sminer::s3: your grandpa upgraded Miner\n:sgolem::b5: Nevin upgraded Golem\n:sbomber::s10: Nevin upgraded Bomber\n:sbomber::s4: seanh upgraded Bomber",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813296916237910026",
+      "type": "Default",
+      "timestamp": "2021-02-22T06:31:35.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "End of Week: DeadSages's Top 50 Gainers This Season",
+          "url": null,
+          "timestamp": null,
+          "description": "Starting from 1 hours and 31 minutes ago, last updated 1 hours ago",
+          "fields": [
+            {
+              "name": ":sk_gold: Gold Looted",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            },
+            {
+              "name": ":sk_elixir: Elixir Looted",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            },
+            {
+              "name": ":sk_darkelixir: Dark Elixir Looted",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813296917777481759",
+      "type": "Default",
+      "timestamp": "2021-02-22T06:31:35.524+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "fields": [
+            {
+              "name": ":sk_castle: Donations",
+              "value": "2,038  cafrsggh\n419  Adam\n189  Darth Zecheriah\n55  cafrsghh 3\n32  BigBlueAircraft\n20  Wavyboytrell\n10  LittleAlchemist",
+              "isInline": false
+            },
+            {
+              "name": ":sk_sword: Attack Wins",
+              "value": "81  Goldencode\n58  LittleAlchemist\n41  Adam\n35  Darth Zecheriah\n26  Jamesy Boii\n19  tom\n9  nic\n7  Dylan\n6  BigBlueAircraft\n5  cafrsghh 3\n2  Aryan n. Mhatr\n1  HyperZ3",
+              "isInline": false
+            },
+            {
+              "name": ":sclangames: Clan Games Points",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            },
+            {
+              "name": ":Trophy: Trophies",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            },
+            {
+              "name": ":sk_bbtrophy: Builder Base Trophies",
+              "value": "Not enough Sidekick history yet",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813491633026629694",
+      "type": "Default",
+      "timestamp": "2021-02-22T19:25:19.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s4: ZZ.mini upgraded Barbarian King\n:ssneaky::s7: kyndawg upgraded Sneaky Archer\n:sgoblin::s5: Guru upgraded Goblin\n:aq::s3: quirky upgraded Archer Queen\n:aq::s16: Darth Zecheriah upgraded Archer Queen\n:sarcher::b5: BigBlueAircraft upgraded Archer\n:aq::s23: trrravesty upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813510057458270218",
+      "type": "Default",
+      "timestamp": "2021-02-22T20:38:31.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "dieselproud Joined",
+          "url": "https://www.clashofstats.com/players/dieselproud-LCLQVCU0Y/achievements",
+          "timestamp": null,
+          "description": ":Th:9 :bk:16:aq:16 :Trophy:2188 :sk_star_new:172",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813695720610725899",
+      "type": "Default",
+      "timestamp": "2021-02-23T08:56:17.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sm::s19: Z.Z upgraded Battle Machine\n:Th::t12: your grandpa is now Town Hall 12\n:sgolem::sk_unlocked: ZZ.mini unlocked Golem\n:sloon::b3: kyndawg upgraded Balloon\n:sbomber::s4: kyndawg upgraded Bomber\n:sjump::sk_unlocked: xanderthegreat unlocked Jump\n:sfreeze::sk_unlocked: xanderthegreat unlocked Freeze\n:sgoblin::b6: Guru upgraded Goblin\n:aq::s22: Guru upgraded Archer Queen\n:srbab::s8: quirky upgraded Raged Barbarian\n:sboxer::s2: Darth Zecheriah upgraded Boxer Giant\n:swizard::b4: tom upgraded Wizard\n:slightning::s3: Alpha Wolf upgraded Lightning\n:shaste::sk_unlocked: Alpha Wolf unlocked Haste\n:scanon::s3: Alpha Wolf upgraded Cannon Cart\n:sbomber::s7: CerMaC upgraded Bomber\n:slightning::s3: LittleAlchemist upgraded Lightning\n:aq::s40: HyperZ3 upgraded Archer Queen\n:sskeleton::s2: Pedro R. upgraded Skeleton\n:scrystal: dieselproud pushed to Crystal League\n:scrystal: Darth Zecheriah pushed to Crystal League\n:scrystal: RayOut pushed to Crystal League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "813899592172175441",
+      "type": "Default",
+      "timestamp": "2021-02-23T22:26:24.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::sk_unlocked: nic unlocked Archer Queen\n:Th::t9: nic is now Town Hall 9\n:slightning::s3: ZZ.mini upgraded Lightning\n:bk::s17: Guru upgraded Barbarian King\n:sdragon::s3: quirky upgraded Dragon\n:sboxer::s3: Darth Zecheriah upgraded Boxer Giant\n:scanon::s9: chief steve upgraded Cannon Cart\n:aq::s14: chief steve upgraded Archer Queen\n:sbowler::sk_unlocked: RayOut unlocked Bowler\n:sminer::sk_unlocked: RayOut unlocked Miner\n:sbdragon::s8: seanh upgraded Baby Dragon/Builder Base\n:gw::s4: trrravesty upgraded Grand Warden",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814096438920871946",
+      "type": "Default",
+      "timestamp": "2021-02-24T11:28:36.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":snight::s4: GotrekTheGreat upgraded Night Witch\n:sboxer::s6: kyndawg upgraded Boxer Giant\n:scanon::s9: Jamesy Boii upgraded Cannon Cart\n:sbdragon::s6: quirky upgraded Baby Dragon/Builder Base\n:swizard::b6: Darth Zecheriah upgraded Wizard\n:aq::30: Chris14 upgraded Archer Queen\n:sdrop::s3: Arnold upgraded Drop Ship\n:sloon::s4: chief stephen upgraded Balloon\n:sm::s26: Adam upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814278439624376330",
+      "type": "Default",
+      "timestamp": "2021-02-24T23:31:48.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sgolem::s3: RayOut upgraded Golem\n:sbowler::b2: RayOut upgraded Bowler\n:snight::s6: RayOut upgraded Night Witch\n:sbarb::b7: Space Jesus upgraded Barbarian\n:slightning::s5: xanderthegreat upgraded Lightning\n:aq::s2: xanderthegreat upgraded Archer Queen\n:sinvisible::b2: BlackStallion97 upgraded Invisibility\n:slightning::s5: seanh upgraded Lightning\n:shog::b7: rhino0117 upgraded Hog Rider\n:gw::s6: rhino0117 upgraded Grand Warden\n:bk::s28: Z.Z upgraded Barbarian King\n:switch::b3: Arif BURHAN upgraded Witch\n:sm::s2: Alpha Wolf upgraded Battle Machine\n:aq::s4: quirky upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814285053554327573",
+      "type": "Default",
+      "timestamp": "2021-02-24T23:58:05.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Teeej23 Joined",
+          "url": "https://www.clashofstats.com/players/Teeej23-QPGL0LUP/achievements",
+          "timestamp": null,
+          "description": ":Th:11 :bk:19:aq:16:gw:3 :Trophy:2445 :sk_star_new:234",
+          "color": "#009144",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814403264132677682",
+      "type": "Default",
+      "timestamp": "2021-02-25T07:47:49.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s32: Space Jesus upgraded Barbarian King\n:shog::b5: chief steve upgraded Hog Rider\n:snight::s5: GotrekTheGreat upgraded Night Witch\n:aq::s24: GotrekTheGreat upgraded Archer Queen\n:sboxer::s6: Teeej23 upgraded Boxer Giant\n:aq::s12: Alpha Wolf upgraded Archer Queen\n:schampion: Arnold pushed to Champion League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814598037884239903",
+      "type": "Default",
+      "timestamp": "2021-02-25T20:41:46.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s22: trrravesty upgraded Barbarian King\n:sfreeze::s4: Arnold upgraded Freeze\n:sgiant::b7: Arnold upgraded Giant\n:sloon::s2: xanderthegreat upgraded Balloon\n:sboxer::s7: xanderthegreat upgraded Boxer Giant\n:aq::s15: chief steve upgraded Archer Queen\n:bk::s5: ZZ.mini upgraded Barbarian King\n:sbdragon::s2: kyndawg upgraded Baby Dragon/Builder Base\n:bk::s20: Teeej23 upgraded Barbarian King\n:svalk::s2: your grandpa upgraded Valkyrie\n:sbdragon::s7: quirky upgraded Baby Dragon/Builder Base",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814617176526946345",
+      "type": "Default",
+      "timestamp": "2021-02-25T21:57:49.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jamesy Boii Left",
+          "url": "https://www.clashofstats.com/players/Jamesy+Boii-CLRPQ298/achievements",
+          "timestamp": null,
+          "description": "",
+          "color": "#C0222E",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814798707647316028",
+      "type": "Default",
+      "timestamp": "2021-02-26T09:59:10.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":gw::s5: trrravesty upgraded Grand Warden\n:scanon::s6: Dylan upgraded Cannon Cart\n:bk::s26: Dylan upgraded Barbarian King\n:bk::s37: Arnold upgraded Barbarian King\n:sjump::b2: Guru upgraded Jump\n:bk::s18: Guru upgraded Barbarian King\n:aq::s23: Guru upgraded Archer Queen\n:shealing::s2: kyndawg upgraded Healing\n:sgolem::sk_unlocked: nic unlocked Golem\n:srbab::s7: Teeej23 upgraded Raged Barbarian\n:sboxer::s7: Teeej23 upgraded Boxer Giant\n:sm::sk_unlocked: Teeej23 unlocked Battle Machine\n:sk_bh::t5: Teeej23 is now Builder Hall 5\n:sbowler::sk_unlocked: Z.Z unlocked Bowler\n:slightning::s4: Alpha Wolf upgraded Lightning\n:sarcher::s6: Alpha Wolf upgraded Archer\n:aq::s15: Alpha Wolf upgraded Archer Queen\n:sfreeze::s4: Chris14 upgraded Freeze\n:sgold: your grandpa pushed to Gold League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815007578269810728",
+      "type": "Default",
+      "timestamp": "2021-02-26T23:49:08.768+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":aq::s24: trrravesty upgraded Archer Queen\n:shealer::b4: Dylan upgraded Healer\n:sbowler::b3: Adam upgraded Bowler\n:aq::46: Adam upgraded Archer Queen\n:sm::s16: Arnold upgraded Battle Machine\n:srbab::s14: Space Jesus upgraded Raged Barbarian\n:scanon::s10: chief steve upgraded Cannon Cart\n:slightning::s4: ZZ.mini upgraded Lightning\n:slightning::b7: GotrekTheGreat upgraded Lightning\n:sdragon::b5: Z.Z upgraded Dragon\n:aq::s32: Z.Z upgraded Archer Queen\n:sm::s20: Z.Z upgraded Battle Machine",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815198168781946891",
+      "type": "Default",
+      "timestamp": "2021-02-27T12:26:29.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s6: ZZ.mini upgraded Barbarian King\n:sbdragon::s3: kyndawg upgraded Baby Dragon/Builder Base\n:bk::s21: Arif BURHAN upgraded Barbarian King\n:scanon::s4: Alpha Wolf upgraded Cannon Cart\n:sm::s3: Alpha Wolf upgraded Battle Machine\n:sgoblin::s4: your grandpa upgraded Goblin\n:sgold: Teeej23 pushed to Gold League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815406515841925120",
+      "type": "Default",
+      "timestamp": "2021-02-28T02:14:22.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":ed::b2: trrravesty upgraded Electro Dragon\n:bd::s2: Space Jesus upgraded Baby Dragon\n:sdrop::s2: Chris14 upgraded Drop Ship\n:sminion::s2: Guru upgraded Minion\n:bk::49: BlackStallion97 upgraded Barbarian King\n:shealing::s2: seanh upgraded Healing\n:sskeleton::sk_unlocked: seanh unlocked Skeleton\n:aq::s6: seanh upgraded Archer Queen\n:sm::s4: Alpha Wolf upgraded Battle Machine\n:shealer::s3: chief steve upgraded Healer\n:smaster: Chris14 pushed to Master League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435269519310848",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:08:38.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!upgrade",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435290818641970",
+      "type": "20",
+      "timestamp": "2021-02-28T04:08:43.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "</upgrade:811050439767228447> ",
+      "author": {
+        "id": "384367680955744266",
+        "name": "BlackStallion97",
+        "discriminator": "1505",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435295691374592",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:08:44.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "​",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BlackStallion97's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH11 and BH9\n\n**Elixir Troops**\n:sgiant::b8: for 8.5m :sk_elixir:\n:sdragon::b6: for 9m :sk_elixir:\n:sloon::b7: for 9.5m :sk_elixir:\n\n**Dark Elixir Troops**\n:sminion::b7: for 90k :sk_darkelixir:\n:sgolem::s6: for 100k :sk_darkelixir: (TH max 7)\n:svalk::b6: for 110k :sk_darkelixir:\n:sicegolem::b3: for 120k :sk_darkelixir:\n:slava::b4: for 125k :sk_darkelixir:\n:switch::b4: for 130k :sk_darkelixir:\n\n**Elixir Spells**\n:sclone::s4: for 8m :sk_elixir: (TH max 5)",
+          "fields": [
+            {
+              "name": "Dark Elixir Spells",
+              "value": ":shaste::s4: for 100k :sk_darkelixir: (TH max 5)\n:sskeleton::b4: for 100k :sk_darkelixir:\n:seq::t5: for 120k :sk_darkelixir:\n:spoison::b5: for 150k :sk_darkelixir:",
+              "isInline": false
+            },
+            {
+              "name": "Heroes",
+              "value": ":bk::b50: for 197k :sk_darkelixir:",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":sdrop::s11: for 2.2m :bElixir: (BH max 18)\n:sbomber::s14: for 2.4m :bElixir: (BH max 18)\n:sbeta::s14: for 2.5m :bElixir: (BH max 18)\n:ssneaky::s15: for 3.1m :bElixir: (BH max 18)\n:sboxer::s15: for 3.3m :bElixir: (BH max 18)\n:sbdragon::s15: for 3.4m :bElixir: (BH max 18)\n:snight::s15: for 3.5m :bElixir: (BH max 18)\n:srbab::s17: for 3.8m :bElixir: (BH max 18)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435296622510122",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:08:44.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "​",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "your grandpa's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH12 and BH8\n\n**Elixir Troops**\n:sgiant::s4: for 750k :sk_elixir: (TH max 9)\n:swizard::s4: for 1.35m :sk_elixir: (TH max 9)\n:sgoblin::s5: for 1.5m :sk_elixir: (TH max 8)\n:swb::s5: for 1.75m :sk_elixir: (TH max 8)\n:sdragon::s2: for 2m :sk_elixir: (TH max 7)\n:spekka::s4: for 4.5m :sk_elixir: (TH max 8)\n:syeti::sk_unlocked: for 5m :sk_elixir:\n:bd::s4: for 6m :sk_elixir: (TH max 6)\n:sarcher::s8: for 8m :sk_elixir: (TH max 9)\n:sminer::s4: for 8m :sk_elixir: (TH max 6)\n:ed::s2: for 9m :sk_elixir: (TH max 3)\n:sloon::s7: for 9.5m :sk_elixir: (TH max 8)\n:shealer::b5: for 9.5m :sk_elixir:\n:sbarb::t9: for 11m :sk_elixir:",
+          "fields": [
+            {
+              "name": "Dark Elixir Troops",
+              "value": ":sminion::s3: for 15k :sk_darkelixir: (TH max 8)\n:sgolem::s2: for 30k :sk_darkelixir: (TH max 9)\n:svalk::s3: for 30k :sk_darkelixir: (TH max 7)\n:slava::s2: for 50k :sk_darkelixir: (TH max 5)\n:switch::s2: for 50k :sk_darkelixir: (TH max 5)\n:shog::s7: for 100k :sk_darkelixir: (TH max 9)\n:sbowler::s3: for 140k :sk_darkelixir: (TH max 4)\n:sicegolem::sk_unlocked: for 6m :sk_elixir:",
+              "isInline": false
+            },
+            {
+              "name": "Elixir Spells",
+              "value": ":sfreeze::s2: for 3m :sk_elixir: (TH max 7)\n:sjump::s2: for 3m :sk_elixir: (TH max 3)\n:sclone::s2: for 4m :sk_elixir: (TH max 5)\n:slightning::s6: for 4m :sk_elixir: (TH max 9)\n:sinvisible::sk_unlocked: for 4.8m :sk_elixir:\n:shealing::b7: for 6m :sk_elixir:\n:srage::t6: for 11m :sk_elixir:",
+              "isInline": false
+            },
+            {
+              "name": "Dark Elixir Spells",
+              "value": ":spoison::s2: for 25k :sk_darkelixir: (TH max 6)\n:seq::s2: for 30k :sk_darkelixir: (TH max 5)\n:shaste::s2: for 40k :sk_darkelixir: (TH max 5)\n:sskeleton::s2: for 40k :sk_darkelixir: (TH max 6)\n:sbat::s2: for 60k :sk_darkelixir: (TH max 5)",
+              "isInline": false
+            },
+            {
+              "name": "Heroes",
+              "value": ":bk::s17: for 42k :sk_darkelixir: (TH max 65)\n:aq::s35: for 130k :sk_darkelixir: (TH max 65)\n:sm::s9: for 1.8m :bElixir: (TH max 25)\n:gw::s6: for 4.5m :sk_elixir: (TH max 40)",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":sbeta::s2: for 50k :bElixir: (BH max 16)\n:sbomber::s3: for 200k :bElixir: (BH max 16)\n:sbdragon::s4: for 280k :bElixir: (BH max 16)\n:ssneaky::s7: for 320k :bElixir: (BH max 16)\n:sboxer::s9: for 1m :bElixir: (BH max 16)\n:srbab::s15: for 3m :bElixir: (BH max 16)\n:scanon::s15: for 3.4m :bElixir: (BH max 16)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435298497888317",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:08:45.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Creator Code: Sidekick",
+          "url": "https://clashsidekick.com/r/creatorcode",
+          "timestamp": null,
+          "description": "Free! Tap here & set our code, and Supercell will support us with a % of your in-game spending for 7 days",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435724622004234",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:10:26.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!upgrade",
+      "author": {
+        "id": "802848808627077131",
+        "name": "ArnoldCoC",
+        "discriminator": "1155",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802848808627077131/1bb267db6712d09e440ae6eb0fa2a7e4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435816791965706",
+      "type": "20",
+      "timestamp": "2021-02-28T04:10:48.788+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "</upgrade:811050439767228447> ",
+      "author": {
+        "id": "802848808627077131",
+        "name": "ArnoldCoC",
+        "discriminator": "1155",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/802848808627077131/1bb267db6712d09e440ae6eb0fa2a7e4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435820533547170",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:10:49.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "​",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Arnold's Available Upgrades",
+          "url": null,
+          "timestamp": null,
+          "description": "at TH10 and BH7\n\n**Elixir Troops**\n:sgoblin::b7: for 5.5m :sk_elixir:\n\n**Elixir Spells**\n:sfreeze::b5: for 6m :sk_elixir:",
+          "fields": [
+            {
+              "name": "Dark Elixir Spells",
+              "value": ":sskeleton::s2: for 40k :sk_darkelixir: (TH max 3)\n:sbat::s2: for 60k :sk_darkelixir: (TH max 3)\n:spoison::b4: for 75k :sk_darkelixir:",
+              "isInline": false
+            },
+            {
+              "name": "Heroes",
+              "value": ":bk::s38: for 144k :sk_darkelixir: (TH max 40)\n:sm::s17: for 2.7m :bElixir: (TH max 20)",
+              "isInline": false
+            },
+            {
+              "name": "Builder Troops",
+              "value": ":sdrop::s4: for 1.3m :bElixir: (BH max 14)\n:srbab::s13: for 2m :bElixir: (BH max 14)\n:ssneaky::s13: for 2.1m :bElixir: (BH max 14)\n:sbomber::s13: for 2.2m :bElixir: (BH max 14)\n:sbeta::s13: for 2.3m :bElixir: (BH max 14)\n:sboxer::s13: for 2.3m :bElixir: (BH max 14)\n:sbdragon::s13: for 2.4m :bElixir: (BH max 14)\n:snight::s13: for 2.5m :bElixir: (BH max 14)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815435821455900683",
+      "type": "Default",
+      "timestamp": "2021-02-28T04:10:49.9+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Creator Code: Sidekick",
+          "url": "https://clashsidekick.com/r/creatorcode",
+          "timestamp": null,
+          "description": "Free! Tap here & set our code, and Supercell will support us with a % of your in-game spending for 7 days",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815600116915765348",
+      "type": "Default",
+      "timestamp": "2021-02-28T15:03:40.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":scanon::s13: RayOut upgraded Cannon Cart\n:sbowler::b2: Space Jesus upgraded Bowler\n:svalk::b4: CerMaC upgraded Valkyrie\n:bk::s6: xanderthegreat upgraded Barbarian King\n:scanon::s2: ZZ.mini upgraded Cannon Cart\n:Th::t9: ZZ.mini is now Town Hall 9\n:sbomber::s2: Teeej23 upgraded Bomber\n:aq::s17: Teeej23 upgraded Archer Queen\n:aq::s16: Alpha Wolf upgraded Archer Queen\n:sskeleton::b3: Pedro R. upgraded Skeleton\n:sbdragon::s14: Pedro R. upgraded Baby Dragon/Builder Base\n:sgold: CerMaC pushed to Gold League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815795087845883924",
+      "type": "Default",
+      "timestamp": "2021-03-01T03:58:25.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sm::s15: Space Jesus upgraded Battle Machine\n:aq::s31: Chris14 upgraded Archer Queen\n:scanon::s13: Guru upgraded Cannon Cart\n:bk::s19: Guru upgraded Barbarian King\n:scanon::s3: ZZ.mini upgraded Cannon Cart\n:sbeta::s5: kyndawg upgraded Beta Minion\n:sbat::sk_unlocked: GotrekTheGreat unlocked Bat\n:sboxer::s9: GotrekTheGreat upgraded Boxer Giant\n:sminion::b6: Pedro R. upgraded Minion\n:shealer::b4: chief steve upgraded Healer\n:sboxer::s9: chief steve upgraded Boxer Giant\n:aq::s16: chief steve upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815851312129376256",
+      "type": "Default",
+      "timestamp": "2021-03-01T07:41:50.596+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "End of Week: DeadSages's Top 50 Gainers This Season",
+          "url": null,
+          "timestamp": null,
+          "description": "Starting Mon Feb 22, last updated 3 hours ago",
+          "fields": [
+            {
+              "name": ":sk_gold: Gold Looted",
+              "value": "39,141,213  Z.Z\n20,549,576  Arnold\n20,387,412  Chris14\n18,498,621  your grandpa\n17,752,193  ZZ.mini\n15,887,456  Alpha Wolf\n14,159,580  Pedro R.\n13,766,877  BlackStallion97\n12,508,389  chief steve\n11,451,065  trrravesty\n10,776,908  Guru\n10,713,144  rhino0117\n9,205,222  Space Jesus\n6,463,229  GotrekTheGreat\n6,275,154  RayOut\n3,758,132  Arif BURHAN\n3,609,813  Adam\n3,274,445  Darth Zecheriah\n3,099,622  Teeej23\n2,744,914  seanh\n2,712,258  xanderthegreat\n2,467,082  quirky\n1,539,582  kyndawg\n942,382  CerMaC\n907,555  nic\n646,744  chief stephen\n214,746  Wavyboytrell\n197,599  LittleAlchemist",
+              "isInline": false
+            },
+            {
+              "name": ":sk_elixir: Elixir Looted",
+              "value": "47,870,187  Z.Z\n22,552,060  Arnold\n20,881,507  Chris14\n20,678,088  ZZ.mini\n19,741,120  your grandpa\n16,979,903  Alpha Wolf\n15,404,206  BlackStallion97\n14,578,302  Pedro R.\n13,256,212  trrravesty\n12,202,890  rhino0117\n11,583,606  chief steve\n10,766,905  Space Jesus\n10,465,837  Guru\n7,186,811  RayOut\n7,181,076  GotrekTheGreat\n4,078,153  Arif BURHAN\n3,639,514  Darth Zecheriah\n3,584,130  Adam\n3,135,485  xanderthegreat\n2,925,006  quirky\n2,674,809  Teeej23\n2,220,567  seanh\n1,390,878  kyndawg\n1,321,689  CerMaC\n973,344  nic\n613,384  chief stephen\n389,524  LittleAlchemist\n371,932  Wavyboytrell",
+              "isInline": false
+            },
+            {
+              "name": ":sk_darkelixir: Dark Elixir Looted",
+              "value": "309,350  Z.Z\n203,121  Arnold\n148,762  Chris14\n124,489  Pedro R.\n121,470  rhino0117\n120,822  BlackStallion97\n113,890  Space Jesus\n111,323  trrravesty\n111,047  Guru\n101,947  your grandpa\n76,537  Alpha Wolf\n74,527  chief steve\n51,024  RayOut\n50,672  ZZ.mini\n41,559  GotrekTheGreat\n28,827  Darth Zecheriah\n25,268  Adam\n23,171  Arif BURHAN\n17,438  seanh\n15,980  xanderthegreat\n12,237  Teeej23\n11,708  quirky\n9,664  CerMaC\n3,695  nic\n2,998  chief stephen\n2,610  LittleAlchemist\n1,144  Wavyboytrell",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815851313279402015",
+      "type": "Default",
+      "timestamp": "2021-03-01T07:41:50.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "fields": [
+            {
+              "name": ":sk_castle: Donations",
+              "value": "3,786  Z.Z\n2,644  Arnold\n1,783  trrravesty\n1,392  rhino0117\n1,234  chief steve\n386  Pedro R.\n385  Alpha Wolf\n340  BlackStallion97\n319  Space Jesus\n309  GotrekTheGreat\n225  Teeej23\n187  cafrsggh\n123  chief stephen\n120  Adam\n87  Chris14\n85  RayOut\n61  your grandpa\n55  Darth Zecheriah\n25  Guru",
+              "isInline": false
+            },
+            {
+              "name": ":sk_sword: Attack Wins",
+              "value": "83  Z.Z\n81  Goldencode\n79  Arnold\n75  ZZ.mini\n38  Alpha Wolf\n37  your grandpa\n36  Chris14\n33  trrravesty\n32  Space Jesus\n32  Guru\n31  Pedro R.\n25  chief steve\n22  GotrekTheGreat\n21  BlackStallion97\n19  rhino0117\n18  Teeej23\n15  Darth Zecheriah\n15  RayOut\n13  Adam\n12  quirky\n9  xanderthegreat\n7  Arif BURHAN\n5  cafrsghh 3\n5  kyndawg\n4  nic\n4  seanh\n2  Aryan n. Mhatr\n1  chief stephen\n1  CerMaC",
+              "isInline": false
+            },
+            {
+              "name": ":sclangames: Clan Games Points",
+              "value": "4,375  Z.Z\n4,125  Arnold\n4,125  Alpha Wolf\n4,100  Space Jesus\n4,100  Guru\n4,100  your grandpa\n4,075  chief steve\n4,075  trrravesty\n4,045  ZZ.mini\n4,000  rhino0117\n2,550  Pedro R.\n2,075  quirky\n1,925  GotrekTheGreat\n1,800  RayOut\n1,650  kyndawg\n1,600  Adam\n1,125  BlackStallion97\n1,125  Chris14\n1,025  Teeej23\n725  CerMaC\n475  Darth Zecheriah\n350  chief stephen\n100  xanderthegreat\n100  seanh",
+              "isInline": false
+            },
+            {
+              "name": ":Trophy: Trophies",
+              "value": "379  Arnold\n297  Guru\n291  Teeej23\n288  RayOut\n235  Alpha Wolf\n232  Z.Z\n186  Chris14\n136  Arif BURHAN\n128  ZZ.mini\n103  GotrekTheGreat\n91  your grandpa\n71  nic\n63  CerMaC\n62  cafrsggh\n45  seanh\n41  xanderthegreat\n39  BlackStallion97\n28  Adam\n28  Pancakes21\n25  Darth Zecheriah\n21  Space Jesus\n21  tom\n21  Nevin\n19  kyndawg\n19  Wavyboytrell\n12  chief steve\n10  Dylan",
+              "isInline": false
+            },
+            {
+              "name": ":sk_bbtrophy: Builder Base Trophies",
+              "value": "400  Teeej23\n217  nic\n208  Darth Zecheriah\n170  your grandpa\n106  Alpha Wolf\n97  trrravesty\n86  rhino0117\n64  Space Jesus\n64  Z.Z\n62  ZZ.mini\n53  seanh\n52  xanderthegreat\n44  chief steve\n28  BigBlueAircraft\n27  Arif BURHAN\n24  Arnold\n13  CerMaC\n1  BlackStallion97",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815973699701571654",
+      "type": "Default",
+      "timestamp": "2021-03-01T15:48:10.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s33: Space Jesus upgraded Barbarian King\n:ww::sk_unlocked: your grandpa unlocked Wall Wrecker\n:aq::s35: your grandpa upgraded Archer Queen\n:shealing::b6: chief steve upgraded Healing\n:scrystal: Pedro R. pushed to Crystal League",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "816143301643337780",
+      "type": "Default",
+      "timestamp": "2021-03-02T03:02:06.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":sclone::b5: Adam upgraded Clone\n:sgiant::b8: Adam upgraded Giant\n:shealer::b5: Adam upgraded Healer\n:sm::s27: Adam upgraded Battle Machine\n:sk_bh::t6: xanderthegreat is now Builder Hall 6\n:sminion::s3: Guru upgraded Minion\n:slightning::s5: ZZ.mini upgraded Lightning\n:sbeta::s6: kyndawg upgraded Beta Minion\n:bk::s29: Z.Z upgraded Barbarian King\n:sbdragon::s8: quirky upgraded Baby Dragon/Builder Base\n:sk_bh::t9: Pedro R. is now Builder Hall 9",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "816289237925494804",
+      "type": "Default",
+      "timestamp": "2021-03-02T12:42:00.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":bk::s28: Chris14 upgraded Barbarian King\n:svalk::sk_unlocked: xanderthegreat unlocked Valkyrie\n:sfreeze::b6: rhino0117 upgraded Freeze\n:shealer::b5: rhino0117 upgraded Healer\n:sicegolem::b3: rhino0117 upgraded Ice Golem\n:aq::s42: rhino0117 upgraded Archer Queen\n:sminer::b3: Arif BURHAN upgraded Miner\n:slightning::s5: Alpha Wolf upgraded Lightning\n:sarcher::b7: Alpha Wolf upgraded Archer\n:shealer::b4: Alpha Wolf upgraded Healer\n:sgoblin::s5: your grandpa upgraded Goblin\n:aq::s5: quirky upgraded Archer Queen",
+      "author": {
+        "id": "406129972982317068",
+        "name": "Sidekick II",
+        "discriminator": "9293",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/406129972982317068/b02c93aa929fc9bcb2c1210d099c7bd7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 189
+}
