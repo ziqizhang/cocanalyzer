@@ -2,6 +2,7 @@
 from warfeed import attack as atk
 from warfeed import player as ply
 from warfeed import clan as cln
+import util
 import pandas as pd
 import re, sys
 
@@ -11,13 +12,21 @@ NO_STAR="sk_star_empty"
 ATTACK="sk_arrow_right"
 DEFENCE="sk_arrow_left"
 
+
+def find_remainig_attacks(text_remaining):
+    # assuming syntax like "**1 Remaining Attack**"
+    last_line = text_remaining.split("\n")[-1]
+    remaining = int(last_line[2:])
+    return remaining
+
+
 def parse_sidekick_warfeed(inFile, clanname):
     data = pd.read_csv(inFile, header=0, delimiter=',', quoting=0, encoding="utf-8",
                        ).fillna("none")
     data = data.values
 
 
-    player_attacks={}
+    player_mapping={}
 
     attack_id=1
     for r in data:
@@ -53,10 +62,10 @@ def parse_sidekick_warfeed(inFile, clanname):
 
                 source_thlvl=parts[8].strip()
                 target_thlvl=parts[10].strip()
-                player_name=parts[7].strip()
+                player_name=util.normalise_name(parts[7])
 
-                if player_name in player_attacks.keys():
-                    player=player_attacks[player_name]
+                if player_name in player_mapping.keys():
+                    player=player_mapping[player_name]
                 else:
                     player = ply.Player(player_name)
 
@@ -67,17 +76,34 @@ def parse_sidekick_warfeed(inFile, clanname):
                 else:
                     player._defences.append(attack)
 
-                player_attacks[player_name] = player
+                player_mapping[player_name] = player
                 attack_id+=1
 
 
-        elif r[3].startswith("TBD"):#to check remaining attacks
-            pass
+        if "remaining attack" in r[3].lower():#to check remaining attacks
+            sidx= r[3].lower().index("remaining attack")
+            text_remaining = r[3][0:sidx].strip()
+            remaining_attacks = find_remainig_attacks(text_remaining)
+
+            text=r[3][sidx:]
+
+            lines=text.split("\n")
+            for rowidx in range(1,len(lines)):
+                row = lines[rowidx]
+                if (row.startswith(":b")):
+                    startindex=row.rindex(":")
+                    player_name = util.normalise_name(row[startindex+1:])
+                    if player_name in player_mapping.keys():
+                        player = player_mapping[player_name]
+                        player._unused_attacks+=remaining_attacks
+                    else:
+                        player = ply.Player(player_name)
+                        player_mapping[player_name]=player
 
     clan = cln.Clan(clanname)
-    clan._players=list(player_attacks.values())
+    clan._players=list(player_mapping.values())
     return clan
 
 if __name__ == "__main__":
     clan_war_data=parse_sidekick_warfeed(sys.argv[1],sys.argv[2])
-    clan_war_data.summarize_attacks()
+    clan_war_data.summarize_attacks(outfolder=sys.argv[3])

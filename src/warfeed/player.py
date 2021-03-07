@@ -4,7 +4,7 @@ class Player:
     #
     def __init__(self,name:str):
         self._name=name
-        self._attacks_available=0 # num of attacks this player had
+        self._unused_attacks=0 # num of attacks this player had
         self._attacks=[] #attacks used and associated data
         self._defences=[] #num of times this player is attacked
 
@@ -40,6 +40,7 @@ class Player:
         star_freq[stars]=n
 
 
+    #TODO: test this
     def average_atk_stars(self):
 
         if len(self._attacks)==0:
