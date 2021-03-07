@@ -106,4 +106,8 @@ def parse_sidekick_warfeed(inFile, clanname):
 
 if __name__ == "__main__":
     clan_war_data=parse_sidekick_warfeed(sys.argv[1],sys.argv[2])
+
+    #this will output player data to a folder
     clan_war_data.summarize_attacks(outfolder=sys.argv[3])
+
+    clan_war_data.output_clan_war_data(sys.argv[3])

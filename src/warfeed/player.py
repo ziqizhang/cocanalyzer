@@ -8,30 +8,39 @@ class Player:
         self._attacks=[] #attacks used and associated data
         self._defences=[] #num of times this player is attacked
 
-    def summarize_attacks(self):
-        thlvl_attacks = {}
-        thlvl_stars = {} #key=0/1/2/3 stars; value=frequency
+        self._total_stars=0
+        self._total_attacks=0
+        self._thlvl_attacks={}
+        self._thlvl_stars={}
 
-        total_stars=0
+        self._data_populated=False
+
+    def summarize_attacks(self):
+        #thlvl_attacks = {}
+        #thlvl_stars = {} #key=0/1/2/3 stars; value=frequency
+
         for atk in self._attacks:
             if not atk._is_out:
                 continue
-            total_stars += atk._stars
+            self._total_stars += atk._stars
+            self._total_attacks+=1
 
             n = 1
-            if atk._target_thlvl in thlvl_attacks.keys():
-                n += thlvl_attacks[atk._target_thlvl]
-            thlvl_attacks[atk._target_thlvl] = n
+            if atk._target_thlvl in self._thlvl_attacks.keys():
+                n += self._thlvl_attacks[atk._target_thlvl]
+            self._thlvl_attacks[atk._target_thlvl] = n
 
             s = atk._stars
-            if atk._target_thlvl in thlvl_stars.keys():
-                star_freq=thlvl_stars[atk._target_thlvl]
+            if atk._target_thlvl in self._thlvl_stars.keys():
+                star_freq=self._thlvl_stars[atk._target_thlvl]
             else:
                 star_freq={}
             self.update_stats(star_freq,s)
-            thlvl_stars[atk._target_thlvl]=star_freq
+            self._thlvl_stars[atk._target_thlvl]=star_freq
 
-        return total_stars, thlvl_attacks, thlvl_stars
+
+        #return total_stars, thlvl_attacks, thlvl_stars
+        self._data_populated=True
 
     def update_stats(self, star_freq:dict, stars:int):
         n=1
