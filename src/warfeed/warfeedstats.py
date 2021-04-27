@@ -19,6 +19,21 @@ def find_remainig_attacks(text_remaining):
     remaining = int(last_line[2:])
     return remaining
 
+def update_remaining_attacks(text, player_mapping, remaining_attacks):
+    lines = text.split("\n")
+    for rowidx in range(1, len(lines)):
+        row = lines[rowidx]
+        if (row.startswith(":b")):
+            startindex = row.rindex(":")
+            player_name = util.normalise_name(row[startindex + 1:])
+            if player_name in player_mapping.keys():
+                player = player_mapping[player_name]
+                player._unused_attacks += remaining_attacks
+            else:
+                player = ply.Player(player_name)
+                player_mapping[player_name] = player
+        elif (row.startswith("**")):
+            break
 
 def parse_sidekick_warfeed(inFile, clanname):
     data = pd.read_csv(inFile, header=0, delimiter=',', quoting=0, encoding="utf-8",
@@ -30,6 +45,7 @@ def parse_sidekick_warfeed(inFile, clanname):
 
     attack_id=1
     for r in data:
+        print(r[2])
         #check if the message is from sidekick
         if 'sidekick' not in r[1].lower():
             continue
@@ -64,6 +80,9 @@ def parse_sidekick_warfeed(inFile, clanname):
                 target_thlvl=parts[10].strip()
                 player_name=util.normalise_name(parts[7])
 
+                if player_name=="Z.Z":
+                    print("")
+
                 if player_name in player_mapping.keys():
                     player=player_mapping[player_name]
                 else:
@@ -81,24 +100,24 @@ def parse_sidekick_warfeed(inFile, clanname):
 
 
         if "remaining attack" in r[3].lower():#to check remaining attacks
-            sidx= r[3].lower().index("remaining attack")
-            text_remaining = r[3][0:sidx].strip()
-            remaining_attacks = find_remainig_attacks(text_remaining)
+            try:
+                sidx= r[3].lower().index("2 remaining attack")
+                remaining_attacks = 2
 
-            text=r[3][sidx:]
+                text=r[3][sidx:]
+                update_remaining_attacks(text, player_mapping, remaining_attacks)
+            except:
+                pass
 
-            lines=text.split("\n")
-            for rowidx in range(1,len(lines)):
-                row = lines[rowidx]
-                if (row.startswith(":b")):
-                    startindex=row.rindex(":")
-                    player_name = util.normalise_name(row[startindex+1:])
-                    if player_name in player_mapping.keys():
-                        player = player_mapping[player_name]
-                        player._unused_attacks+=remaining_attacks
-                    else:
-                        player = ply.Player(player_name)
-                        player_mapping[player_name]=player
+            try:
+                sidx = r[3].lower().index("1 remaining attack")
+                remaining_attacks = 1
+
+                text = r[3][sidx:]
+                update_remaining_attacks(text, player_mapping, remaining_attacks)
+            except:
+                pass
+
 
     clan = cln.Clan(clanname)
     clan._players=list(player_mapping.values())
@@ -111,3 +130,29 @@ if __name__ == "__main__":
     clan_war_data.summarize_attacks(outfolder=sys.argv[3])
 
     clan_war_data.output_clan_war_data(sys.argv[3])
+
+    #weekly:
+    '''
+    /home/zz/Work/cocanalyzer/input/weekly/war-log.csv
+    DeadSages
+    /home/zz/Work/cocanalyzer/input/weekly/tmp
+    '''
+
+    #monthly:
+    '''
+    /home/zz/Work/cocanalyzer/input/Mar2021/war-feed.csv
+    DeadSages
+    /home/zz/Work/cocanalyzer/input/Mar2021/players
+    '''
+
+    '''
+    /home/zz/Work/cocanalyzer/input/Apr2021/ds-war.csv
+    DeadSages
+    /home/zz/Work/cocanalyzer/input/Apr2021/dswar
+    '''
+
+    '''
+        /home/zz/Work/cocanalyzer/input/Apr2021/dse-war.csv
+        DeadSagesElite
+        /home/zz/Work/cocanalyzer/input/Apr2021/dsewar
+        '''

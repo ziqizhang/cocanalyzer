@@ -55,4 +55,13 @@ def extract_activity_sikekick(inFile, outFile):
             activity_writer.writerow([k, v])
 
 if __name__ == "__main__":
-    extract_activity_sikekick(sys.argv[1], sys.argv[2])
+    #extract_activity_sikekick(sys.argv[1], sys.argv[2])
+
+    #monthly
+    extract_activity_sikekick("/home/zz/Work/cocanalyzer/input/Apr2021/dse-clan.csv",
+                                "/home/zz/Work/cocanalyzer/input/Apr2021/dse-clan-summary.csv")
+
+    '''
+    /home/zz/Work/cocanalyzer/input/Apr2021/ds-clan.csv
+    
+    '''
