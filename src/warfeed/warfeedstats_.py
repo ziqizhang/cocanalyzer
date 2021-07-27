@@ -151,7 +151,7 @@ deadsages
 /home/zz/Work/cocanalyzer/input/Apr2021/dse-war.csv
 /home/zz/Work/cocanalyzer/input/Apr2021/DeadSages_Elite_war_attacks.csv
 deadsageselite
-2021-04-09
+2021-04-25
 /home/zz/Work/cocanalyzer/input/Apr2021/dsewar
         '''
 
@@ -178,13 +178,23 @@ deadsageselite
     #monthly:
 
     '''
-    /home/zz/Work/cocanalyzer/input/Apr2021/ds-war.csv
+    /home/zz/Work/cocanalyzer/input/June2021/ds-war.csv
     DeadSages
-    /home/zz/Work/cocanalyzer/input/Apr2021/dswar
+    /home/zz/Work/cocanalyzer/input/June2021/dswar
     '''
-
-    '''
-        /home/zz/Work/cocanalyzer/input/Apr2021/dse-war.csv
-        DeadSagesElite
-        /home/zz/Work/cocanalyzer/input/Apr2021/dsewar
+'''
+    /home/zz/Work/cocanalyzer/input/June2021/dse-war.csv
+/home/zz/Work/cocanalyzer/input/June2021/DeadSages_Elite_war_attacks.csv
+deadsageselite
+2021-05-24
+/home/zz/Work/cocanalyzer/input/June2021/dsewar
         '''
+
+
+'''
+    /home/zz/Work/cocanalyzer/input/June2021/ds-war.csv
+/home/zz/Work/cocanalyzer/input/June2021/DeadSages_war_attacks.csv
+deadsages
+2021-05-24
+/home/zz/Work/cocanalyzer/input/June2021/dswar
+'''

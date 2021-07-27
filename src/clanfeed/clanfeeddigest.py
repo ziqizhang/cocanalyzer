@@ -58,8 +58,8 @@ if __name__ == "__main__":
     #extract_activity_sikekick(sys.argv[1], sys.argv[2])
 
     #monthly
-    extract_activity_sikekick("/home/zz/Work/cocanalyzer/input/Apr2021/dse-clan.csv",
-                                "/home/zz/Work/cocanalyzer/input/Apr2021/dse-clan-summary.csv")
+    extract_activity_sikekick("/home/zz/Work/cocanalyzer/input/July2021/ds-clan.csv",
+                                "/home/zz/Work/cocanalyzer/input/July2021/ds-clan-summary.csv")
 
     '''
     /home/zz/Work/cocanalyzer/input/Apr2021/ds-clan.csv
